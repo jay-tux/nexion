@@ -28,7 +28,8 @@ There are no elves on Nexion, see the [world history](./world-hist.md).
  Stout Halfling | ![grandf] ![des_ancients] ![northern] ![arrival] ![storm_des] ![anly]
  
 **Human:**
-Location(s): ![gold] ![free_h] ![corn] ![northern] ![arrival] ![pine] ![overgr] ![swamp] ![lava] ![storm_des] ![anly]
+ Location(s) | ![gold] ![free_h] ![corn] ![northern] ![arrival] ![pine] ![overgr] ![swamp] ![lava] ![storm_des] ![anly]
+ --- | ---
 
 ## Volo's Guide to Monsters Races
 ### Exotic Races
@@ -37,11 +38,11 @@ Location(s): ![gold] ![free_h] ![corn] ![northern] ![arrival] ![pine] ![overgr] 
 ...
 
 **Kobold**
-Location(s): ![h_ice] ![v_heaven] ![grandf] ![gold] ![des_ancients] ![free_h] ![corn] ![northern] ![arrival] ![frozen] ![pine] ![overgr] ![swamp] ![lava] ![storm_des] ![anly] - in short, they live everywhere
+ Location(s) | ![h_ice] ![v_heaven] ![grandf] ![gold] ![des_ancients] ![free_h] ![corn] ![northern] ![arrival] ![frozen] ![pine] ![overgr] ![swamp] ![lava] ![storm_des] ![anly] - in short, they live everywhere
+ --- | ---
 
 ## Location Table
-<p style='writing-mode: tb-rl;'>[Hills of Ice][h_ice_l]</p> | <p style='writing-mode: tb-rl;'>Veil of Heaven</p>
-:--- | :---
+
 
 [//]: # (links)
 [h_ice]: https://img.shields.io/badge/-Hills_of_Ice-brown
