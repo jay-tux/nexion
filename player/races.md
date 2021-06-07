@@ -257,10 +257,10 @@ Triton | | ![triton] | ![triton] | ![triton] | ![triton]
 [blood_l]: ./world_fow.md#the-blood-sea
 [southern_l]: ./world_fow.md#southern-sea
 
-[hill]: https://img.shields.io/badge/Hill_Dwarf--grey
-[mountain]: https://img.shields.io/badge/Mountain_Dwarf--grey
-[lightfoot]: https://img.shields.io/badge/Lightfoot_Halfling--grey
-[stout]: https://img.shields.io/badge/Stout_Halfling--grey
+[hill]: https://img.shields.io/badge/Hill--grey
+[mountain]: https://img.shields.io/badge/Mountain--grey
+[lightfoot]: https://img.shields.io/badge/Lightfoot--grey
+[stout]: https://img.shields.io/badge/Stout--grey
 [human]: https://img.shields.io/badge/Human--grey
 [blue]: https://img.shields.io/badge/Blue--grey
 [goldd]: https://img.shields.io/badge/Gold--grey
@@ -272,9 +272,9 @@ Triton | | ![triton] | ![triton] | ![triton] | ![triton]
 [white]: https://img.shields.io/badge/White--grey
 [brass]: https://img.shields.io/badge/Brass--grey
 [black]: https://img.shields.io/badge/Black--grey
-[rock]: https://img.shields.io/badge/Rock_Gnome--grey
-[forest]: https://img.shields.io/badge/Forest_Gnome--grey
-[half-orc]: https://img.shields.io/badge/Half_Orc--grey
+[rock]: https://img.shields.io/badge/Rock--grey
+[forest]: https://img.shields.io/badge/Forest--grey
+[half-orc]: https://img.shields.io/badge/Half--Orc-grey
 [tiefling]: https://img.shields.io/badge/Tiefling--grey
 [firbolg]: https://img.shields.io/badge/Firbolg--grey
 [goliath]: https://img.shields.io/badge/Goliath--grey
