@@ -1,7 +1,7 @@
 # Nexion - Player Races
 *Playable Races overview for Nexion*  
 *For the exact data on the races, see the mentioned resources. This document mainly aims to list the (cultural) differences with the official resource, and lists where each race hails from (geographically).*  
-*All links to the map document have the status ![todo].*  
+*All links to the map and history documents (most links in this document) have the status ![todo].*  
 
 ## Table of Contents
  - [Player's Handbook Races](./races.md#players-handbook-races)
