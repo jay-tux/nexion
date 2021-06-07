@@ -20,8 +20,8 @@ Volo's Guide to monsters | [Volo][link_volo] | ![volo]
 
 ## Player Resources
 *For links to official WotC resources, see [Useful Links](./README.md#useful-links).*
- - [World Map (with Fog of War)](./imgs/map_fow.png) ![todo]
- - [World Map (with Fog of War and Notes)](./player/world_fow.md) ![todo]
+ - [World Map (with Fog of War)](./imgs/map_fow.png) ![done]
+ - [World Map (with Fog of War and Notes)](./player/world_fow.md) ![progress]
  - [List of Playable Races](./player/races.md) ![progress]
 
 ## DM Resources

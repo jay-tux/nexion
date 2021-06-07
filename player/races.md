@@ -1,13 +1,34 @@
 # Nexion - Player Races
 *Playable Races overview for Nexion*  
 *For the exact data on the races, see the mentioned resources. This document mainly aims to list the (cultural) differences with the official resource, and lists where each race hails from (geographically).*  
-*All links to the map and history documents (most links in this document) have the status ![todo].*  
+*All links to the history document (most links in this document) have the status ![todo].*  
 
 ## Table of Contents
  - [Player's Handbook Races](./races.md#players-handbook-races)
+     - [Dwarf](./races.md#dwarf)
+     - [Elf](./races.md#elf)
+     - [Halfling](./races.md#halfling)
+     - [Human](./races.md#human)
+     - [Half-Elf](./races.md#half-elf)
+     - [Dragonborn](./races.md#dragonborn)
+     - [Gnome](./races.md#gnome)
+     - [Half-Orc](./races.md#half-orc)
+     - [Tiefling](./races.md#tiefling)
  - [Volo's Guide to Monsters Races](./races.md#volos-guide-to-monsters-races)
      - [Exotic Races](./races.md#exotic-races)
+         - [Firbolg](./races.md#firbolg)
+         - [Goliath](./races.md#goliath)
+         - [Kenku](./races.md#kenku)
+         - [Lizardfolk](./races.md#lizardfolk)
+         - [Tabaxi](./races.md#tabaxi)
+         - [Triton](./races.md#triton)
      - [Monstrous Races](./races.md#monstrous-races)
+         - [Bugbear](./races.md#bugbear)
+         - [Goblin](./races.md#goblin)
+         - [Hobgoblin](./races.md#hobgoblin)
+         - [Kobold](./races.md#kobold)
+         - [Orc](./races.md#orc)
+         - [Yuan-ti](./races.md#yuan-ti)
  - [Location Tables](./races.md#location-table)
      - [The Holy Lands](./races.md#the-holy-lands)
      - [Island of Promise](./races.md#island-of-promise)
@@ -42,7 +63,7 @@ There are no elves on Nexion, see the [world history](./world-hist.md).
 
 Before the [Arrival](./world-hist.md#arrival), humans used to be second-class citizens: not having the other races' abilities, they were usually oppressed or ignored. However, during the colonization of Nexion, many other races have learnt to accept and live in peace with humans. Now, they usually keep to [The Old World](./world_fow.md#the-old-world). A few gold-diggers have tried their luck on the [![gold]][gold_l]. When they live in big cities, surrounded by other races, humans tend to be accepting and welcoming. However, when they live in secluded communities, they tend to be very traditional and xenophobic.
 
-#### Half-elf
+#### Half-Elf
 There are no half-elves on Nexion.  
 
 #### Dragonborn
@@ -61,7 +82,7 @@ There are no half-elves on Nexion.
 
 Dragonborn are found everywhere, but they are still quite rare: they live in small, scattered communities, usually together with kobolds (as friends and neighbors, never as pets or slaves). They have good ties with local firbolg (if any), and Yuan-ti. It is said that when a kobold and a dragonborn are born on the same day, they'll be friends for life. They all have their own defining trait, which is listed in the table above.
 
-#### Gnome:
+#### Gnome
  Subrace | Location(s)
  --- | ---
  Forest Gnome | ![corn] ![pine] ![overgr] ![swamp]
