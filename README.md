@@ -22,7 +22,7 @@ Volo's Guide to monsters | [Volo][link_volo] | ![volo]
 *For links to official WotC resources, see [Useful Links](./README.md#useful-links).*
  - [World Map (with Fog of War)](./imgs/map_fow.png) ![todo]
  - [World Map (with Fog of War and Notes)](./player/world_fow.md) ![todo]
- - [List of Playable Races](./player/races.md) ![todo]
+ - [List of Playable Races](./player/races.md) ![progress]
 
 ## DM Resources
 *Note: as this is an ongoing campaign, these notes will only be available once the data inside them is known to my own playgroup.*
@@ -57,3 +57,5 @@ Volo's Guide to monsters | [Volo][link_volo] | ![volo]
 [dmg]: https://img.shields.io/badge/resource-DMG-purple
 
 [todo]: https://img.shields.io/badge/Status-To_Do-important
+[progress]: https://img.shields.io/badge/Status-In_Progress-informational
+[done]: https://img.shields.io/badge/status-Finished-success
