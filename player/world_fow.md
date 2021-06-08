@@ -1,9 +1,10 @@
 # Nexion - World Map
-*This is the fog-of-war version of the world map. In other words, not everything is present yet. This map is meant to give the general information all people on Nexion know: the big areas, the big rivers, the biggest cities.*
+*This is the fog-of-war version of the world map. In other words, not everything is present yet. This map is meant to give the general information all people on Nexion know: the big areas, the big rivers, [the biggest cities](./world_fow_cities.md).*
 
 ![Nexion world map - with Fog of War](../imgs/world_fow.png)
 
 ## Table of Contents
+*The overview of Nexion's biggest cities is over [here](./world_fow_cities.md).*
  - [Table of Contents](./world_fow.md#table-of-contents)
  - [Holy Lands](./world_fow.md#holy-lands)
      - [Hills of Ice](./world_fow.md#hills-of-ice)
