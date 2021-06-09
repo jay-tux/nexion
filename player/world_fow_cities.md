@@ -48,15 +48,66 @@
 
 ## Holy Lands
 ### Arhusg ![h_ice]
+The northernmost city on Nexion, Arhusg is home to a lot of miners and ice-miners. People usually arrive by crossing the frozen sea on sleds, which is a lot faster than the bumpy roads through the tundra. The *Northern Confederation*, a large group of towns and cities controlled by the hill dwarfs, has their main seat in Arhusg. There are rumors that there exists an equally big city underground.
+
+ Quick overview | <i></i>
+ --- | ---
+ Size | ~1,250 inhabitants
+ Government | **Confederacy:** Arhusg is the seat of the *Northern Confederation*, a large group of towns controlled by the hill dwarfs.
+ Defense | Almost all of the resident (blue) dragonborn are enlisted as police force for the *Northern Confederation*.
+ Majority | ![hill] (government officials, miners, ...)
+ Minorities | ![blue] and ![kobold] (police force), ![rock] (traders and artificers)
+ Crime rates | Very low: most dwarfs are lawful by nature, and the tundra makes sure the community relies on itself for sustenance.
+ Religion | ![todo] (dwarven religion), but others are tolerated as well
+ Factions | While not forbidden, there are no actual factions in Arhusg as most people don't have time for those.
+
 ### Feldkirch ![h_ice]
 ### Nakskov ![h_ice]
 ### Visby ![v_heaven]
 ### Trakt ![v_heaven]
 ### Raphoe ![grandf]
 ### Navan ![grandf]
+Navan is an impenetrable fortress, home to most of Nexion's hobgoblins. The city itself is Spartan with few to no decorations, parks, gardens or the likes. Even the palace of the ruling chieftain is built in undecorated sandstone. A few sculptures of war heroes stand on the large, open squares. Each neighborhood has its own barracks with permanent garrison.
+
+ Quick overview | <i></i>
+ --- | ---
+ Size | ~5,000 inhabitants
+ Government | **Militocracy:** Navan's primary chieftain rules with an iron fist. The whole society is warped around the defense and strength of the fortress.
+ Defense | Navan is a fortress: impenetrable walls, and a sizable garrison. Most of the (hobgoblin) inhabitants are proficient with weapons, should the need arise.
+ Majority | ![hobgob] (pretty much all people)
+ Minorities | ![kenku] (government-licensed spies), ![stout] (a few resident traders)
+ Crime rates | Perfectly safe: the army keeps track of everything and justice is swift and irreversible.
+ Religion | ![todo]: only the hobgoblins' religion is allowed
+ Factions | Forbidden
+
 ### Hammore ![grandf]
 ### Fool's Gold ![gold]
+Not a true city, Fool's Gold is the largest "settlement" on the Gold Shores. There is no law, no rules, nothing. Government is an illusion. But that doesn't mean there's no justice: people take justice in their own hands, which means the few trees are the stage for many hangings.
+
+ Quick overview | <i></i>
+ --- | ---
+ Size | ~850 inhabitants
+ Government | **Kleptocracy/Anarchy:** there is no real government in Fool's Gold: everyone does their own bidding.
+ Defense | None
+ Majority | No true, noticeable minorities or majorities: ![human] ![hill] ![kenku] ![bronze] ![kobold] - all mostly scoundrels and low-life criminals
+ Minorities | No true, noticeable minorities or majorities
+ Crime rates | Very, very high
+ Religion | Any and none: there aren't signs of any religion, but there are no rules against any either.
+ Factions | Most low-life factions have a base of operations, but that's about it. (![todo])
+
 ### Arris ![des_ancients]
+
+ Quick overview | <i></i>
+ --- | ---
+ Size | ~1,000 inhabitants
+ Government | **Autocracy:** an ancient line of red dragonborn rule Arris.
+ Defense | Giant, unsurpassable walls
+ Majority | ![kobold] (most citizens)
+ Minorities | ![red] (the higher bureaucratic functions), ![kenku] (entertainers), ![stout] (traders)
+ Crime rates | Low: the desert allows for harsh and swift judgements
+ Religion | ![todo] (some religions)
+ Factions | ![todo] (some factions)
+
 ### Remicj ![des_ancients]
 ### Mondou ![des_ancients]
 
@@ -79,7 +130,6 @@
 ### Obsidiana ![lava]
 ### Ulthar ![storm_des]
 Ulthar is the only city where sedentary tabaxi live: most other tabaxi roam the Storm Desert, the Lava Foothills and the Desert of the Ancients. Ulthar boasts an unparalleled university for mages. Most of Ulthar's mages are the local tabaxi, which are often employed by the city as defense forces after graduating. The city itself forms a stark contrast with the surrounding desert: lush, exotic gardens, lots of fountains, ...  
-Ulthar is probably the only city where religion and extralegal factions are forbidden.
 
  Quick overview | <i></i>
  --- | ---
@@ -89,10 +139,11 @@ Ulthar is probably the only city where religion and extralegal factions are forb
  Majority | ![tabaxi] (mages, scholars, traders, adventurers)
  Minorities | ![stout] (artificers), ![tiefling] (sholars, bartenders), ![kenku] (low-life scoundrels)
  Crime rates | Only kenku scoundrels, mages keep most everything in check
+ Religion | Forbidden
+ Factions | Forbidden
 
 ### Castleport ![anly]
 By far the largest city on Nexion, Castleport also is the richest, providing a home to most of the wealthy traders, merchants and land owners. The illustrious group of merchants called the *Negosy* rule the city, while their private armies keep the order. It's one of the fairest cities on Nexion with most everyone having equal chances. Even though the city is huge, crime rates are minimal with only the harbor being used for smuggling and other low-life activities. The city is always teeming with life. Scattered between the houses and stores are large, lush gardens tended by a veritable army of gardeners. Statues of the founding *Negosy* members are positioned all through the city.  
-Most, if not all, religions and factions have at least one base in Castleport.
 
  Quick overview | <i></i>
  --- | ---
@@ -102,6 +153,8 @@ Most, if not all, religions and factions have at least one base in Castleport.
  Majority | ![human] (traders, farmers, merchants)
  Minorities | ![lightfoot] (mostly catering), ![lizard] (cheap workforces, dockhands, soldiers)
  Crime rates | Mostly safe, but avoid the harbor
+ Religion | Most, if not all
+ Factions | Most, if not all
 
 ### Artrane ![anly]
 ### Woodfield ![anly]
