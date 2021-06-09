@@ -25,7 +25,7 @@ Volo's Guide to monsters | [Volo][link_volo] | ![volo]
     - [World Map (with Fog of War and Big Cities)](./img/map_fow_cities.png) ![done]
  - Textual Resources
     - [World Map (with Fog of War and Notes)](./player/world_fow.md) ![progress]
-    - [World Map (with Fog of War and Cities)](./player/world_fow_cities.md) ![todo]
+    - [World Map (with Fog of War and Cities)](./player/world_fow_cities.md) ![progress]
     - [List of Playable Races](./player/races.md) ![done]
 
 ## DM Resources
