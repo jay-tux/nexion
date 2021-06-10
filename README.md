@@ -17,12 +17,13 @@ Volo's Guide to monsters | [Volo][link_volo] | ![volo]
  - [Useful Links](./README.md#useful-links)
 
 ## Introduction
+![todo]
 
 ## Player Resources
 *For links to official WotC resources, see [Useful Links](./README.md#useful-links).*
  - Images
     - [World Map (with Fog of War)](./imgs/map_fow.png) ![done]
-    - [World Map (with Fog of War and Big Cities)](./img/map_fow_cities.png) ![done]
+    - [World Map (with Fog of War and Big Cities)](./imgs/map_fow_cities.png) ![done]
  - Textual Resources
     - [World Map (with Fog of War and Notes)](./player/world_fow.md) ![progress]
     - [World Map (with Fog of War and Cities)](./player/world_fow_cities.md) ![progress]
