@@ -158,7 +158,35 @@ Two rivers springing from the Prophet's Lake, the Jade River and Jade Stream got
 ![avalon] is an anomaly: it's a mythical island. Several sailors and crews claim to have been there, and they can pinpoint it on a map, but none who search for it ever find it. The sailors who have been there, or claim so, all agree on the nature of the place: it's a lush place, with giant lizards walking around, ruled by another giant lizard. They claim to have seen another kind of humanoid. A new species, not the mythical Oppressor (see the [world history](./world-hist.md#oppressor)).
 
 ## Seas and Oceans
-![todo]
+### Ice Ocean
+Permanently frozen, the ![ice_o] isn't crossed by boat, but rather, by sledge. It's home to many yetis and other monsters. Snow storms are common, but usually also predictable. Travel is unsafe, but with some luck, very fast.
+
+### Central Sea
+The ![central] is a calm and safe sea. Many many ships cross it every day, and those carrying passengers usually take a stop on one of the many small islands scattered across the Central Sea. The mystical island of Avalon lies in the Central Sea as well.
+
+### Raven Sea
+Every few weeks, the ![raven] turns black for a few days. All ships who were sailing over it, disappear the day after. No magic could ever protect them. No-one can predict the exact moment of the events.
+
+### Strait of Romburgh
+Named after a very wealthy, mythical captain, the ![romb] is a rough sea. Most captains avoid the deeper parts at the center. Legend has it that Romburgh's ship went missing in the Strait, but that its great treasures should still be at the bottom of the sea.
+
+### Verdant Bay
+![verdant] is the safest trade route to the Holy Lands. The coast along the Bay is lined with crystal-white beaches lined with lots of different trees. Due to sea winds, the temperature in the Bay is very agreeable, contrasting with the harsh, merciless sun of the Desert of the Ancients.
+
+### Boiling Bay
+The ![boil] is known for its spontaneous outbursts of fire. Every now and then, the sea sets itself on fire. It is unknown what causes it, but it disallows any kind of trade. However, after each fire, the surrounding towns and cities report findings of strange "things".
+
+### Hurricane Maze
+The clue is in the title. The winds in ![maze] never follow a normal pattern: making it an actual maze to traverse. Add lots of sharp rocks, hidden just below the waterline, and you'll get a sea no-one has ever traversed. Every so often, an actual hurricane passes through the Hurricane Maze and leaves the Gold Shores' coasts littered with strange corpses.
+
+### Vortex Sea
+Near the Infernal Deeps, the currents are wild and clash with each other all the time, thus creating a lot of vortexes. No-one has ever sailed across the ![vortex] to see what's on the other side of the Infernal Deeps.
+
+### The Blood Sea
+![blood] is home to a giant kraken, trapped by the storms of the Hurricane Maze. The fishermen sailing on The Blood Sea tend to stay close to the shore, protected from the kraken, Gryrcyc, by sandbars. However, even that safety is relative. When Gryrcyc is really hungry, they're not afraid to take the risk and grab some fisher's boats from behind the sandbars.
+
+### Southern Sea
+The southernmost explored sea, the crews who sailed south of the ![southern] never returned. The explored parts of the sea are relatively safe. Watch out for the occasional giant squid, though. Fish is abundant around the Island of Promise.
 
 [//]: # (links)
 [h_ice]: https://img.shields.io/badge/-Hills_of_Ice-brown

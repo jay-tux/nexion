@@ -30,7 +30,7 @@ Volo's Guide to monsters | [Volo][link_volo] | ![volo]
       - [PNG Version](./res/sheets.png) ![todo]
  - Textual Resources
     - [Player Base Data](./player/base.md) ![todo]
-    - [World Map (with Fog of War and Notes)](./player/world_fow.md) ![progress]
+    - [World Map (with Fog of War and Notes)](./player/world_fow.md) ![done]
     - [World Map (with Fog of War and Cities)](./player/world_fow_cities.md) ![progress]
     - [List of Playable Races](./player/races.md) ![done]
     - [List of Religions and Factions](./player/factions.md) ![todo]
