@@ -33,8 +33,8 @@ Volo's Guide to monsters | [Volo][link_volo] | ![volo]
     - [World Map (with Fog of War and Notes)](./player/world_fow.md) ![done]
     - [World Map (with Fog of War and Cities)](./player/world_fow_cities.md) ![progress]
     - [List of Playable Races](./player/races.md) ![done]
-    - [List of Religions and Factions](./player/factions.md) ![todo]
-    - [World History & Background Lore](./player/world-hist.md) ![todo]
+    - [List of Religions and Factions](./player/factions.md) ![progress]
+    - [World History & Background Lore](./player/world-hist.md) ![progress]
 
 ## DM Resources
 *Note: as this is an ongoing campaign, these notes will only be available once the data inside them is known to my own playgroup.*

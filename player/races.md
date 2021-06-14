@@ -59,7 +59,7 @@ There are no elves on Nexion, see the [world history](./world-hist.md).
  Lightfoot Halfling | ![grandf] ![free_h] ![corn] ![arrival] ![pine] ![overgr] ![anly]
  Stout Halfling | ![grandf] ![des_ancients] ![northern] ![arrival] ![storm_des] ![anly]
 
- As everywhere else, halflings on Nexion are light-hearted, happy-go-lucky people. They tend to get along with everyone because of their merry nature. According to legends, they used to be jesters on the [Forgotten World](./world-hist.md#forgotten-world). Now they live scattered and are usually found in happy communities with many inter-communal ties. Their happy-go-lucky mood makes them also a bit careless, so they tend to lose little things and trinkets everywhere.
+ As everywhere else, halflings on Nexion are light-hearted, happy-go-lucky people. They tend to get along with everyone because of their merry nature. According to legends, they used to be jesters on the [Forgotten World](./world-hist.md#the-forgotten-world). Now they live scattered and are usually found in happy communities with many inter-communal ties. Their happy-go-lucky mood makes them also a bit careless, so they tend to lose little things and trinkets everywhere.
 
 #### Human
 ![human]
