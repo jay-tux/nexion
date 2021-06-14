@@ -29,7 +29,7 @@
          - [Kobold](./races.md#kobold)
          - [Orc](./races.md#orc)
          - [Yuan-ti](./races.md#yuan-ti)
- - [Location Tables](./races.md#location-table)
+ - [Location Tables](./races.md#location-tables)
      - [The Holy Lands](./races.md#the-holy-lands)
      - [Island of Promise](./races.md#island-of-promise)
      - [The Old World](./races.md#the-old-world)
@@ -283,7 +283,7 @@ These sections contain quick reference tables to find where each (sub)race is lo
  Firbolg | | | | ![firbolg] | ![firbolg]
  Goliath | ![goliath] | | ![goliath]
  Kenku | | ![kenku] | | ![kenku] | ![kenku] | ![kenku] | ![kenku] | ![kenku]
- Lizardfolk | | | | | ![lizard] | ![lizard] | | | ![lizard]
+ Lizardfolk | | ![lizard] | | | ![lizard] | ![lizard] | | | ![lizard]
  Tabaxi | | | | | |  | ![tabaxi] | ![tabaxi]
  <i></i> |
  Bugbear | | ![bugbear]
@@ -367,7 +367,7 @@ Triton | | ![triton] | ![triton] | ![triton] | ![triton]
 [red]: https://img.shields.io/badge/-Red_Dragonborn-red
 [copper]: https://img.shields.io/badge/-Copper_Dragonborn-brown
 [green]: https://img.shields.io/badge/-Green_Dragonborn-green
-[white]: https://img.shields.io/badge/White-Dragonborn-white
+[white]: https://img.shields.io/badge/-White_Dragonborn-white
 [brass]: https://img.shields.io/badge/-Brass_Dragonborn-orange
 [black]: https://img.shields.io/badge/-Black_Dragonborn-black
 [rock]: https://img.shields.io/badge/-Rock_Gnome-yellow
