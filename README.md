@@ -40,6 +40,9 @@ Volo's Guide to monsters | [Volo][link_volo] | ![volo]
 *Note: as this is an ongoing campaign, these notes will only be available once the data inside them is known to my own playgroup.*
   - Images
     - [Icons for Religions and Factions](./dm/icons_relfact.md) ![todo]
+  - Maps
+  - Textual Resources
+    - [Encounter Cards and How to Use Them](./dm/enc_cards.md) ![todo]
 
 ## Useful Links
  - Rulebooks
