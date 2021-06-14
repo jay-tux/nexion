@@ -341,7 +341,29 @@ Xocali is the main yuan-ti city: a grand, splendid complex of beautiful homes, a
  Religion | ![todo] (yuan-ti religion), all others are forbidden
 
 ### Tyanhuar ![overgr]
+Located in a part of the Overgrowth where the vegetation is less dense due to some small hills, Tyanhuar is a trade hub connecting Pyi and Obsidiana to Xocali and the north. Tyanhuar's architecture combines the obsidian and rough stones from the Lava Foothills with the slender, wood-based structures common to the Overgrowth.
+
+ Quick overview | <i></i>
+ --- | ---
+ Size | ~3,000 inhabitants
+ Government | **Confederacy:** Tyanhuar is ruled by the *InterOperating Union* (*IOU*), the same organization that also controls Obsidiana, a lot of towns between both cities and a lot of other towns in the Lava Foothills.
+ Majority | ![tiefling] (traders, officials of the *IOU*)
+ Minorities | ![human] (traders, hunters), ![firbolg] (exiles, loggers, guides), ![kenku] (scoundrels, bartenders), ![lizardfolk] (river workers, traders), ![yuan] (traders, priests)
+ Crime rates | Medium: the rich traders and wealthy merchants attract all kinds of scoundrels
+ Religion | Most religions have their spaces in Tyanhuar; including some magnificent yuan-ti temples
+
 ### Obsidiana ![lava]
+Surrounded by volcanoes and canyons, life in Obsidiana is a constant struggle for survival. The city itself is mostly built from obsidian, basalt and similar volcanic materials, giving it a dark look. As one of the few cities supplying Nexion with obsidian, it's a very popular trading spot. The city consists of two large areas: the downs, along the Stream of Traitors, are the cheap area. More uphill (and connected by both stairways and magical automata), are is Obsidiana proper, with the homes of the rich merchants and the miners themselves.
+
+ Quick overview | <i></i>
+ --- | ---
+ Size | ~1,750 inhabitants
+ Government | **Confederacy:** Obsidiana falls under the *IOU*, together with its main trade partner Tyanhuar.
+ Majority | ![tiefling] (traders, lava miners)
+ Minorities | ![human] (traders), ![hill] (miners), ![half-orc] (miners, farmers), ![kenku] (ship repairs, bartenders, traders)
+ Crime rates | Low: the surrounding volcanoes force people into cooperating. The few criminals are always called traitors and are given a one-way ticket downstream
+ Religion | Any and all religions are allowed in Obsidiana, ![todo] (tiefling religion) and ![todo] (dwarf religion) are most common
+
 ### Ulthar ![storm_des]
 Ulthar is the only city where sedentary tabaxi live: most other tabaxi roam the Storm Desert, the Lava Foothills and the Desert of the Ancients. Ulthar boasts an unparalleled university for mages. Most of Ulthar's mages are the local tabaxi, which are often employed by the city as defense forces after graduating. The city itself forms a stark contrast with the surrounding desert: lush, exotic gardens, lots of fountains, ...  
 
@@ -367,7 +389,7 @@ By far the largest city on Nexion, Castleport also is the richest, providing a h
  Religion | Most, if not all
 
 ### Artrane ![anly]
-Like all cities along the Anly, Artrane is a rich city. It has a colony (or a satrapy), called Raphoe, in the Holy Lands. It's the only city with a colony left. The city centre still consists of the small, halfling-sized homes, but the farther you stray from the central halls (which are actually very large), the more human-sized the buildings become. Even though Artrane is ruled by its own patriarchal government, the influence of the *Negosy* is not undeniable.
+Like all cities along the Anly, Artrane is a rich city. It has a colony (or a satrapy) called Raphoe, in the Holy Lands. It's the only city with a colony left. The city centre still consists of the small, halfling-sized homes, but the farther you stray from the central halls (which are actually very large), the more human-sized the buildings become. Even though Artrane is ruled by its own patriarchal government, the influence of the *Negosy* is not undeniable.
 
  Quick overview | <i></i>
  --- | ---
@@ -379,14 +401,29 @@ Like all cities along the Anly, Artrane is a rich city. It has a colony (or a sa
  Religion | ![todo] (halfling religion) is the only official religion, but others are tolerated for a price
 
 ### Woodfield ![anly]
+The third large city in the Anly Valley, Woodfield combines the trade and farming of the Valley with the mining operations in the nearby hills.
+
+ Quick overview | <i></i>
+ --- | ---
+ Size | ~1,250 inhabitants
+ Government | *Theoretically:* **Democracy:** representatives of the people are chosen from among certain groups. *Practically:* **Satrapy/Oligarchy:** most of the representatives are influenced by or member of the *Negosy*.
+ Majority | ![stout] (artificers, traders)
+ Minorities | ![hill] (miners), ![lightfoot] (farmers, traders), ![tiefling] (traders, bartenders)
+ Crime rates | Low; however, violent riots against the *Negosy* are becoming more and more common
+ Religion | ![todo] (halfling religion) is officially the only religion in Woodfield, but any other religion is tolerated as well
 
 ## Avalon ![avalon]
 There are no cities on the mystical, anomalous island of Avalon. At least, not known to any person on Nexion.
 
 ## Seas and Oceans
 ### Chilca ![raven]
+![todo]
+
 ### Libag ![raven]
+![todo]
+
 ### Huicun ![romb]
+![todo]
 
 [//]: # (links)
 [h_ice]: https://img.shields.io/badge/-Hills_of_Ice-brown
