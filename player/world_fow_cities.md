@@ -42,9 +42,6 @@
      - [Woodfield](./world_fow_cities.md#woodfield-) ![anly]
  - [Avalon](./world_fow_cities.md#avalon) ![avalon]
  - [Seas and Oceans](./world_fow_cities.md#seas-and-oceans)
-     - [Chilca](./world_fow_cities.md#chilca-) ![raven]
-     - [Libag](./world_fow_cities.md#libag-) ![raven]
-     - [Huicun](./world_fow_cities.md#huicun-) ![romb]
 
 ## Holy Lands
 ### Arhusg ![h_ice]
@@ -416,14 +413,7 @@ The third large city in the Anly Valley, Woodfield combines the trade and farmin
 There are no cities on the mystical, anomalous island of Avalon. At least, not known to any person on Nexion.
 
 ## Seas and Oceans
-### Chilca ![raven]
-![todo]
-
-### Libag ![raven]
-![todo]
-
-### Huicun ![romb]
-![todo]
+Very little is known about the aquatic cities of the triton. The three cities below (Chilca, Libag and Huicun) are the only known cities, mostly because they have floating harbors from where trade exists. The only inhabitants are triton. Government, size, and crime rates are always unknown. The only accepted religion in their cities is the tritons' only religion, ![todo].
 
 [//]: # (links)
 [h_ice]: https://img.shields.io/badge/-Hills_of_Ice-brown
