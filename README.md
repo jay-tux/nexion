@@ -20,11 +20,16 @@ Volo's Guide to monsters | [Volo][link_volo] | ![volo]
 ![todo]
 
 ## Player Resources
-*For links to official WotC resources, see [Useful Links](./README.md#useful-links).*
+*For links to official WotC resources, see [Useful Links](./README.md#useful-links).*  
+*Note: even resources marked as ![done] can be updated if needed.*
  - Images
     - [World Map (with Fog of War)](./imgs/world_fow.png) ![done]
     - [World Map (with Fog of War and Big Cities)](./imgs/world_fow_cities.png) ![done]
+    - [Custom Character Sheets](./player/charsheets.md) ![todo]
+      - [PDF Version](./res/sheets.pdf) ![todo]
+      - [PNG Version](./res/sheets.png) ![todo]
  - Textual Resources
+    - [Player Base Data](./player/base.md) ![todo]
     - [World Map (with Fog of War and Notes)](./player/world_fow.md) ![progress]
     - [World Map (with Fog of War and Cities)](./player/world_fow_cities.md) ![progress]
     - [List of Playable Races](./player/races.md) ![done]
@@ -33,6 +38,8 @@ Volo's Guide to monsters | [Volo][link_volo] | ![volo]
 
 ## DM Resources
 *Note: as this is an ongoing campaign, these notes will only be available once the data inside them is known to my own playgroup.*
+  - Images
+    - [Icons for Religions and Factions](./dm/icons_relfact.md) ![todo]
 
 ## Useful Links
  - Rulebooks
