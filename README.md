@@ -33,7 +33,7 @@ The future shines brightly, and it's your time to shine. So take up your pack an
       - [PDF Version](./res/sheets.pdf) ![todo]
       - [PNG Version](./res/sheets.png) ![todo]
  - Textual Resources
-    - [Player Base Data](./player/base.md) ![todo]
+    - [Player Base Data](./player/base.md) ![progress]
     - [World Map (with Fog of War and Notes)](./player/world_fow.md) ![done]
     - [World Map (with Fog of War and Cities)](./player/world_fow_cities.md) ![progress]
     - [List of Playable Races](./player/races.md) ![done]
