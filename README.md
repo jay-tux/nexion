@@ -17,7 +17,11 @@ Volo's Guide to monsters | [Volo][link_volo] | ![volo]
  - [Useful Links](./README.md#useful-links)
 
 ## Introduction
-![todo]
+Welcome to Nexion, a world where most playable races aren't native. A world that is only partially explored: only the northern hemisphere is known. A world where both heaven and hell are rumored to be only a few miles away from the known world. A world where everything is still possible.
+
+Chosen from among hundreds of children, you have been recruited by the [Pioneer's Delight](./player/factions.md#pioneers-delight) at a young age. After going through a rigourous training, you were initiated. Your first small steps into the unknown have been taken; some local missions to gather intel. Now you've been sent to the Headquarters of the guild in the ancient, bureaucratic city of [Liberty](./player/world_fow_cities.md#liberty) which lies in the [![arrival]](./player/world_fow.md#arrival-plains), on [The Old World](./player/world_fow.md#the-old-world). You've heard rumors about a special mission and others who might be present. Does this mean you'll team up with strangers? What's the [Grandmaster](./player/factions.md#pioneers-delight) up to? Where will you go from there? The future awaits with many mysteries to be uncovered. And who knows, in a few years, you might even be the next Grandmaster?
+
+The future shines brightly, and it's your time to shine. So take up your pack and leave for Nexion's hidden secrets!
 
 ## Player Resources
 *For links to official WotC resources, see [Useful Links](./README.md#useful-links).*  
@@ -76,3 +80,5 @@ Volo's Guide to monsters | [Volo][link_volo] | ![volo]
 [todo]: https://img.shields.io/badge/Status-To_Do-important
 [progress]: https://img.shields.io/badge/Status-In_Progress-informational
 [done]: https://img.shields.io/badge/status-Finished-success
+
+[arrival]: https://img.shields.io/badge/-Arrival_Plains-green

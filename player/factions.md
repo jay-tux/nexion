@@ -45,9 +45,9 @@
 
  Religion | Main Race(s) | God/Goddess of | Keywords
  --- |--- | --- | ---
- Bara-Api | ![bugbear] <br /> ![goblin] | Fire | Fire, War, Bloodshed
- Degat | ![triton] | Water | Water, Rivers, Oceans, Seas, Lakes
- Eluygh | ![tiefling] <br /> ![orc] <br /> ![half-orc] | Heaven | Heaven, Ice, Healing, Angels
+ Bara-Api | ![bugbear] <br /> ![goblin] | Fire | Fire, War, Bloodshed, Anger, Emotions
+ Degat | ![triton] | Water | Water, Rivers, Oceans, Seas, Lakes, Birth
+ Eluygh | ![tiefling] <br /> ![orc] <br /> ![half-orc] | Heaven | Heaven, Ice, Healing, Angels, the Afterlife
  Ghry-An | ![kobold] <br /> ![dragonborn] <br /> ![tabaxi] | Sun | Sun, Warmth, Growth, Prosperity, Adventure
  Itanatan | ![hobgob] <br /> ![human] | Honor | Honor, Pride, Governments, Strength
  Khash | ![kenku] | Silence | Silence, Flight, Secrets, Stealth, Messengers
