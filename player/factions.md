@@ -42,11 +42,12 @@
 ![todo]
 ### Overview Table
 
+
  Religion | Main Race(s) | God/Goddess of | Keywords | Clerical Domain
  --- |--- | --- | --- | ---
- Bara-Api | ![bugbear] <br /> ![goblin] | Fire | Fire, War, Bloodshed | War, Light
- Degat | ![triton] | Water | Water, Rivers, Oceans, Seas, Lakes | Knowledge, Tempest
- Eluygh | ![tiefling] <br /> ![orc] <br /> ![half-orc] | Heaven | Heaven, Ice, Healing, Angels | Light, Life
+ Bara-Api | ![bugbear] <br /> ![goblin] | Fire | Fire, War, Bloodshed, Anger, Emotions | War, Light
+ Degat | ![triton] | Water | Water, Rivers, Oceans, Seas, Lakes, Birth | Knowledge, Tempest
+ Eluygh | ![tiefling] <br /> ![orc] <br /> ![half-orc] | Heaven | Heaven, Ice, Healing, Angels, the Afterlife | Light, Life
  Ghry-An | ![kobold] <br /> ![dragonborn] <br /> ![tabaxi] | Sun | Sun, Warmth, Growth, Prosperity, Adventure | Life, Tempest
  Itanatan | ![hobgob] <br /> ![human] | Honor | Honor, Pride, Governments, Strength | War, Knowledge
  Khash | ![kenku] | Silence | Silence, Flight, Secrets, Stealth, Messengers | Trickery, Nature
