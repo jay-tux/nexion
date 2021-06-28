@@ -42,18 +42,17 @@
 ![todo]
 ### Overview Table
 
-
- Religion | Main Race(s) | God/Goddess of | Keywords
- --- |--- | --- | ---
- Bara-Api | ![bugbear] <br /> ![goblin] | Fire | Fire, War, Bloodshed
- Degat | ![triton] | Water | Water, Rivers, Oceans, Seas, Lakes
- Eluygh | ![tiefling] <br /> ![orc] <br /> ![half-orc] | Heaven | Heaven, Ice, Healing, Angels
- Ghry-An | ![kobold] <br /> ![dragonborn] <br /> ![tabaxi] | Sun | Sun, Warmth, Growth, Prosperity, Adventure
- Itanatan | ![hobgob] <br /> ![human] | Honor | Honor, Pride, Governments, Strength
- Khash | ![kenku] | Silence | Silence, Flight, Secrets, Stealth, Messengers
- Lskr | ![lizard] <br /> ![yuan] | Snakes | Snakes, Reptiles, Sacrifice, Power, Preparation
- Uyul | ![firbolg] <br /> ![goliath] | Mountains | Mountains, Forests, Nature, Competition, Self-sufficiency
- Votthoboveigh | ![gnome] <br /> ![dwarf] <br /> ![halfling] | Artifice | Artifice, Craftsmanship, Quality, Trade, Miners, Gems
+ Religion | Main Race(s) | God/Goddess of | Keywords | Clerical Domain
+ --- |--- | --- | --- | ---
+ Bara-Api | ![bugbear] <br /> ![goblin] | Fire | Fire, War, Bloodshed | War, Light
+ Degat | ![triton] | Water | Water, Rivers, Oceans, Seas, Lakes | Knowledge, Tempest
+ Eluygh | ![tiefling] <br /> ![orc] <br /> ![half-orc] | Heaven | Heaven, Ice, Healing, Angels | Light, Life
+ Ghry-An | ![kobold] <br /> ![dragonborn] <br /> ![tabaxi] | Sun | Sun, Warmth, Growth, Prosperity, Adventure | Life, Tempest
+ Itanatan | ![hobgob] <br /> ![human] | Honor | Honor, Pride, Governments, Strength | War, Knowledge
+ Khash | ![kenku] | Silence | Silence, Flight, Secrets, Stealth, Messengers | Trickery, Nature
+ Lskr | ![lizard] <br /> ![yuan] | Snakes | Snakes, Reptiles, Sacrifice, Power, Preparation | Nature, Trickery
+ Uyul | ![firbolg] <br /> ![goliath] | Mountains | Mountains, Forests, Nature, Competition, Self-sufficiency | Nature, Tempest
+ Votthoboveigh | ![gnome] <br /> ![dwarf] <br /> ![halfling] | Artifice | Artifice, Craftsmanship, Quality, Trade, Miners, Gems | Knowledge, Trickery
 
 ## Factions
 ### Pioneer's Delight
