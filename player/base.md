@@ -21,14 +21,14 @@ As you've gotten a training and done some missions, you're quite versed in adven
 ## Player Checklist
 A quick checklist to make sure you're ready to go adventuring:
  - [ ] Choose a name and alignment
- - [ ] Choose a race
+ - [ ] Choose a [race](./races.md)
    - [ ] If applicable, choose a subrace
  - [ ] Choose a class
    - [ ] Level up to *level 5* (multiclassing if you want)
  - [ ] Choose a background
- - [ ] Choose a religion
+ - [ ] Choose a [religion](./factions.md#religions)
  - [ ] Choose defining traits: personality traits, ideals, bonds and flaws
- - [ ] Determine your stats and modifiers (STR, DEX, CON, INT, WIS, CHA)
+ - [ ] Determine your stats and modifiers (STR, DEX, CON, INT, WIS, CHA; using standard-array or point buy)
    - [ ] Religious modifiers applied?
    - [ ] Pioneer's Delight modifiers applied?
  - [ ] Determine your proficiencies (weapons, languages)

@@ -54,7 +54,7 @@ The northernmost city on Nexion, Arhusg is home to a lot of miners and ice-miner
  Majority | ![hill] (government officials, miners, ...)
  Minorities | ![blue] and ![kobold] (police force), ![rock] (traders and artificers)
  Crime rates | Very low: most dwarfs are lawful by nature, and the tundra makes sure the community relies on itself for sustenance.
- Religion | ![todo] (dwarven religion), but others are tolerated as well
+ Religion | Mainly Votthoboveigh, but others are tolerated as well
 
 ### Feldkirch ![h_ice]
 Originally founded as a dragonborn monastery, Feldkirch is now a large city around said monastery. The monks have extralegal rights and don't really have to adhere to laws; however, their grandmaster has enacted certain strict rules. One can approach Feldkirch's structure as an onion: the innermost layer has the monastery, the next contains some original inhabitants and artificers, the next has most of the wealthy traders and important people and the outermost layer is home to farmers and miners.
@@ -66,7 +66,7 @@ Originally founded as a dragonborn monastery, Feldkirch is now a large city arou
  Majority | ![hill] (miners, farmers, traders)
  Minorities | ![blue] and ![kobold] (monks), ![rock] (traders and artificers)
  Crime rates | No crime is reported from the monastery, low crime exists in the city.
- Religion | Most people adhere to the monks' point of view, however ![todo] (dwarven religion) is common as well
+ Religion | Most people adhere to the monks' point of view, however Votthoboveigh is common as well
 
 ### Nakskov ![h_ice]
 Nakskov is a mysterious city: all people who ever went there, didn't return (except in pieces). According to rogues who spied the surrounding tundra, the city seems to be inhabited by orcs alone. Nakskov looks, according to them, like a giant fortress with giant walls. As no-one has ever seen it inside, trade must be non-existent.
@@ -93,7 +93,7 @@ Trakt is rumored to be one of Nexion's most beautiful cities. However, most neve
  Majority | ![goliath]
  Minorities | ![goldd] (elder, resident traders), ![mountain] (miners)
  Crime rates | Low to very low, goliath justice is swift and merciless
- Religion | ![todo] (goliath religion), most others are deemed unworthy
+ Religion | Uyul, most others are deemed unworthy
 
 ### Walchen ![v_heaven]
 The city of Walchen is meant to keep scoundrels, criminals and fortune seekers from the Gold Shores away from the Veil of Heaven. The city is built on one side of the giant wall dividing the Veil of Heaven and the Gold Shores. In the middle of the city lies the gate through the wall, surrounded by the garrison's barracks. A small fishermen port supplies the garrison with food while some (respectable) traders have their homes in the city, which allows for easy trade down to the Gold Shores. Everyone coming from the Gold Shores is rigorously searched and checked.
@@ -105,7 +105,7 @@ The city of Walchen is meant to keep scoundrels, criminals and fortune seekers f
  Majority | ![mountain] (garrison)
  Minorities | ![goliath] (supplementary soldiers), ![goldd] (traders to deeper in the mountains), ![orc] (mercenaries)
  Crime rates | Very low: the garrison keeps everyone in check
- Religion | Most soldiers pay homage to ![todo], but there is no official religion in Walchen
+ Religion | Most soldiers pay homage to Itanatan, but there is no official religion in Walchen
 
 ### Raphoe ![grandf]
 Raphoe is a small city, by all measures. It has a low population, and the as most of the population (if not all), are halfling-sized, there aren't any human-sized homes. Most larger races tend to avoid Raphoe. It's a colony for Artrane on The Old World.
@@ -117,7 +117,7 @@ Raphoe is a small city, by all measures. It has a low population, and the as mos
  Majority | ![lightfoot] (mostly local farmers and officials)
  Minorities | ![stout] (artificers), ![hill] (miners), ![bugbear] (slaves)
  Crime rates | Low apart from the few bugbears who try to break free or steal to buy themselves free.
- Religion | ![todo]: Artrane keeps a lot of control over Raphoe, including its religion (halfling religion)
+ Religion | Votthoboveigh: Artrane keeps a lot of control over Raphoe, including its religion
 
 ### Navan ![grandf]
 Navan is an impenetrable fortress, home to most of Nexion's hobgoblins. The city itself is Spartan with few to no decorations, parks, gardens or the likes. Even the palace of the ruling chieftain is built in undecorated sandstone. A few sculptures of war heroes stand on the large, open squares. Each neighborhood has its own barracks with permanent garrison.
@@ -129,7 +129,7 @@ Navan is an impenetrable fortress, home to most of Nexion's hobgoblins. The city
  Majority | ![hobgob] (pretty much all people)
  Minorities | ![kenku] (government-licensed spies), ![stout] (a few resident traders)
  Crime rates | Perfectly safe: the army keeps track of everything and justice is swift and irreversible.
- Religion | ![todo]: only the hobgoblins' religion is allowed
+ Religion | Itanatan: only the hobgoblins' religion is allowed
 
 ### Hammore ![grandf]
 Hammore, the silent city. Hammore is a kenku monastery focused on actual silence. Only the matriarchs are allowed to "talk" (insofar as kenku can talk) in the Oval Room, where they make the decisions. Throughout the years, some families have settled around the monastery, however, Hammore itself ends at the walls of the monastery, but the matriarchs' rule extends over surrounding settlement as well.
@@ -137,11 +137,11 @@ Hammore, the silent city. Hammore is a kenku monastery focused on actual silence
  Quick overview | <i></i>
  --- | ---
  Size | ~750 inhabitants
- Government | **Matriarchy:** the matriarch of a the great families which compose of over 80% of the monastery's population rule Hammore.
+ Government | **Matriarchy:** the matriarch of one of the great families which compose of over 80% of the monastery's population rules Hammore.
  Majority | ![kenku] (mostly monks)
  Minorities | ![silver], ![hobgob] (monks)
  Crime rates | Inside of the monastery, there is no crime. The surrounding settlement has a little bit of criminals
- Religion | ![todo]: only the kenku religion is allowed; all others aren't allowed within the walls of the monastery
+ Religion | Khash: only the kenku religion is allowed; all others aren't allowed within the walls of the monastery
 
 ### Fool's Gold ![gold]
 Not a true city, Fool's Gold is the largest "settlement" on the Gold Shores. There is no law, no rules, nothing. Government is an illusion. But that doesn't mean there's no justice: people take justice in their own hands, which means the few trees are the stage for many hangings.
@@ -165,7 +165,7 @@ A desert city made entirely out of sandstone, Arris is a marvel. Contrarily to m
  Majority | ![kobold] (most citizens)
  Minorities | ![red] (the higher bureaucratic functions), ![kenku] (entertainers), ![stout] (traders)
  Crime rates | Low: the desert allows for harsh and swift judgements
- Religion | ![todo] (some religions)
+ Religion | Ghry-An, Khash, Bara-Api
 
 ### Remicj ![des_ancients]
 Remicj is a coastal city offering to the outside world the miracles of Arris. The city is built in districts, separated by long roads and large, open squares. The districts themselves are built in the side of the hills, protecting the people from the harsh, merciless sun on the Desert of the Ancients. The districts themselves are mostly the giant villas of the wealthy merchants and their storehouses. A few districts are for the halfling artificers. Near the docks, large storehouses shield the low taverns from the sun. Each of the huge squares is decorated with a lot of beautiful statues in the most exquisite materials. Urban legend has it that there are always tabaxi in Remicj, but that you can never encounter the same tabaxi twice, as they're always passing by.
@@ -177,7 +177,7 @@ Remicj is a coastal city offering to the outside world the miracles of Arris. Th
  Majority | ![hobgob] (traders, soldiers)
  Minorities | ![human] (sailors), ![kenku] (scoundrels, bartenders), ![tabaxi] (passing traders), ![stout] (traders, artificers)
  Crime rates | High near the docks, relatively low elsewhere
- Religion | ![todo] (hobgoblin religion) is most prevailing, but others are allowed as well
+ Religion | Itanatan is most prevailing, but others are allowed as well
 
 ### Mondou ![des_ancients]
 Pressed on the edge of the continent, Mondou is a safe haven for exiles and similar low-life scum. Apart from The Slums and the Gold Shores, Mondou has the largest criminal population on Nexion. Contrasting to the expectations, crime rates in Mondou are low. The city consists small houses built inside a huge cavern and connected by small alleys. A small fishing port keeps the city alive while irrigation is used in the lower levels of the cave to grow vegetables and herbs. The wild fennec are holy animals and shouldn't ever be injured or hunted.
@@ -214,7 +214,7 @@ Where the Rufil streams into the Southern Sea, that's where you can find almost 
  Majority | ![hobgob] (dockhands and soldiers alike)
  Minorities | ![kenku] (dockhands, scoundrels), ![half-orc] (sailors), ![tiefling] (entertainers, bartenders), ![lightfoot] (farmers, artificers), ![human] (fortune seekers), ![forest] (mostly outcasts)
  Crime rates | Quite high near the port itself, low in the upper part of the city
- Religion | Many small temples along the river and the harbor, especially devoted to ![todo] (sea god/goddess)
+ Religion | Many small temples along the river and the harbor, especially devoted to Degat
 
 ### Sanctuary ![corn]
 The clue is in the name: Sanctuary is a safe haven for all people. Many refugees and outcasts have found a second home in Sanctuary. As such, there is no real uniformity between the buildings: each is built in the typical style of the original tribe or city the family came from.
@@ -239,7 +239,7 @@ Most of Hollowcliff, the northernmost port on Nexion, was carved into one of the
  Majority | ![rock] (artificers)
  Minorities | ![hill] (miners), ![stout] (traders, artificers), ![tiefling] (traders, bartenders)
  Crime rates | Low: the *Gemheair*s have always punished crime very harshly
- Religion | Traditionally only ![todo] (gnome religion) was allowed; however, in recent efforts to be more attractive, other religions have been allowed as well
+ Religion | Traditionally only Votthoboveigh was allowed; however, in recent efforts to be more attractive, other religions have been allowed as well
 
 
 ### Aurora ![northern]
@@ -252,7 +252,7 @@ Located at the mouth of the Irorood, Aurora is a trader's town. Notorious for th
  Majority | ![human] (miners)
  Minorities | ![goliath] (miners), ![white] (traders, rulers, guards), ![tiefling] (bartenders, miners), ![hobgob] (guards), ![hill] (traders, miners), ![stout] (artificers)
  Crime rates | Low: dragonborn law has very little patience with criminals
- Religion | As the *Rasseth* practice a less strict version of ![todo] (dragonborn religion), other religions are welcome and present in Aurora
+ Religion | As the *Rasseth* practice a less strict version of Ghry-An, other religions are welcome and present in Aurora
 
 ### Faymere ![northern]
 Located on a crossroads between the Frozen Peaks, The Northern Hills, Pine's Range and the Overgrowth, Faymere is a blend of cultures and communities. Trade routes reach out to the world in all directions, along the Irorood and the Emerald Stream, but also deep into the Pine's Range and Frozen Peaks. It is said that if you can't find it in Faymere, you can't find it on The Old World at all.
@@ -275,7 +275,7 @@ Once a tolerant city of freedom, Liberty has fallen from its lofty status. The b
  Majority | ![human] (officials, clerks)
  Minorities | ![lightfoot] (farmers), ![stout] (artificers), ![tiefling] (officials, bartenders), ![bugbear] (very cheap workforces, slaves)
  Crime rates | Mediocre: most people are lawful, but riots break out regularly among the bugbear
- Religion | In Liberty's heyday, all religions had a place in the city. However, most temples are a bit dilapidated.
+ Religion | In Liberty's heyday, all religions had a place in the city. However, most temples are more than a bit dilapidated.
 
 ### Pyi ![arrival]
 Pyi is largely built on the Prophet's Lake, allowing the hydrophile lizardfolk to go into the water at any time. Apart from the lizardfolk and their bugbear slaves, most other people are there only temporarily: Pyi is a trading hub. Most of the traders are happy to leave the stinking, slimy city behind.
@@ -287,7 +287,7 @@ Pyi is largely built on the Prophet's Lake, allowing the hydrophile lizardfolk t
  Majority | ![lizard] (most inhabitants)
  Minorities | ![bugbear] (slaves)
  Crime rates | Very high, mostly caused by bugbear
- Religion | ![todo]: only the lizardfolk religion is allowed in public
+ Religion | Only worshiping Lskr is allowed in public
 
 ### Prophethome ![arrival]
 According to legend, Prophethome was the home to the prophet who walked the surface of the neighboring lake. The city itself used to be but a small yuan-ti town, but its legendary status made people from everywhere flow in. Nowadays, it's an unwelcoming, cold city. Crime rates have soared so much that most traders prefer to stay in Pyi.
@@ -299,7 +299,7 @@ According to legend, Prophethome was the home to the prophet who walked the surf
  Majority | ![tiefling] (fishermen)
  Minorities | ![bugbear] (slaves, cheap workforces), ![human] (scoundrels, bartenders), ![lightfoot] (farmers), ![stout] (artificers)
  Crime rates | High, and rising
- Religion | ![todo] (religion of the prophet), but shrines to all kinds of gods and spirits are omnipresent
+ Religion | Eluygh, being the religion of the Prophet, but shrines to all kinds of gods and spirits are omnipresent
 
 ### Highcastle ![frozen]
 Highcastle is a hub for trade in the Frozen Peaks. It guards the one pass that goes through the mountains and it has access to the sources for most major rivers sprouting there. Most of Highcastle is built in caves or on terraces carved into the mountains by magic. High bridges connect various parts of the city and magical automata make transport up and down more easy. The higher up the mountain one lives, the higher their family is in status. Very little sunlight reaches the lowest levels of the city. Most carts approach the city on a long, high bridge that arches down to passes between the mountains, allowing the traders to dodge the more dangerous parts of the city.
@@ -335,7 +335,7 @@ Xocali is the main yuan-ti city: a grand, splendid complex of beautiful homes, a
  Majority | ![yuan] (all across the society)
  Minorities | ![lizard] (cheap workforces, construction), ![silver] (scholars, mages)
  Crime rates | Extemely low
- Religion | ![todo] (yuan-ti religion), all others are forbidden
+ Religion | Lskr, all others are forbidden
 
 ### Tyanhuar ![overgr]
 Located in a part of the Overgrowth where the vegetation is less dense due to some small hills, Tyanhuar is a trade hub connecting Pyi and Obsidiana to Xocali and the north. Tyanhuar's architecture combines the obsidian and rough stones from the Lava Foothills with the slender, wood-based structures common to the Overgrowth.
@@ -359,7 +359,7 @@ Surrounded by volcanoes and canyons, life in Obsidiana is a constant struggle fo
  Majority | ![tiefling] (traders, lava miners)
  Minorities | ![human] (traders), ![hill] (miners), ![half-orc] (miners, farmers), ![kenku] (ship repairs, bartenders, traders)
  Crime rates | Low: the surrounding volcanoes force people into cooperating. The few criminals are always called traitors and are given a one-way ticket downstream
- Religion | Any and all religions are allowed in Obsidiana, ![todo] (tiefling religion) and ![todo] (dwarf religion) are most common
+ Religion | Any and all religions are allowed in Obsidiana, Eluygh and Votthoboveigh are most common
 
 ### Ulthar ![storm_des]
 Ulthar is the only city where sedentary tabaxi live: most other tabaxi roam the Storm Desert, the Lava Foothills and the Desert of the Ancients. Ulthar boasts an unparalleled university for mages. Most of Ulthar's mages are the local tabaxi, which are often employed by the city as defense forces after graduating. The city itself forms a stark contrast with the surrounding desert: lush, exotic gardens, lots of fountains, ...  
@@ -395,7 +395,7 @@ Like all cities along the Anly, Artrane is a rich city. It has a colony (or a sa
  Majority | ![stout] (artificers, officials)
  Minorities | ![lightfoot] (farmers, traders), ![lizard] (river/coastal workers), ![tiefling] (merchants), ![human] (traders)
  Crime rates | Low to very low
- Religion | ![todo] (halfling religion) is the only official religion, but others are tolerated for a price
+ Religion | Votthoboveigh is the only official religion, but others are tolerated for a price
 
 ### Woodfield ![anly]
 The third large city in the Anly Valley, Woodfield combines the trade and farming of the Valley with the mining operations in the nearby hills.
@@ -407,13 +407,13 @@ The third large city in the Anly Valley, Woodfield combines the trade and farmin
  Majority | ![stout] (artificers, traders)
  Minorities | ![hill] (miners), ![lightfoot] (farmers, traders), ![tiefling] (traders, bartenders)
  Crime rates | Low; however, violent riots against the *Negosy* are becoming more and more common
- Religion | ![todo] (halfling religion) is officially the only religion in Woodfield, but any other religion is tolerated as well
+ Religion | Votthoboveigh is officially the only religion in Woodfield, but any other religion is tolerated as well
 
 ## Avalon ![avalon]
 There are no cities on the mystical, anomalous island of Avalon. At least, not known to any person on Nexion.
 
 ## Seas and Oceans
-Very little is known about the aquatic cities of the triton. The three cities below (Chilca, Libag and Huicun) are the only known cities, mostly because they have floating harbors from where trade exists. The only inhabitants are triton. Government, size, and crime rates are always unknown. The only accepted religion in their cities is the tritons' only religion, ![todo].
+Very little is known about the aquatic cities of the triton. The three cities below (Chilca, Libag and Huicun) are the only known cities, mostly because they have floating harbors from where trade exists. The only inhabitants are triton. Government, size, and crime rates are always unknown. The only accepted religion in their cities is the tritons' only religion, Degat.
 
 [//]: # (links)
 [h_ice]: https://img.shields.io/badge/-Hills_of_Ice-brown
