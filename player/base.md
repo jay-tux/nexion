@@ -4,7 +4,6 @@
 ## Table of Contents
  - [Table of Contents](./base.md#table-of-contents)
  - [Starting Conditions](./base.md#starting-conditions)
- - [Restricted Spells List](./base.md#restricted-spells-list)
  - [Additional Backgrounds](./base.md#additional-background)
  - [Player Checklist](./base.md#player-checklist)
 
@@ -16,33 +15,6 @@ As you've gotten a training and done some missions, you're quite versed in adven
 
  ![todo] - specialization - item table
 
-## Restricted Spells List
-To keep a bit of "realism" on Nexion, the following spells are modified or off-limits for players. In general, these will be spells that grant players the ability to fly. If spells don't have a short description of the modification, they can't be used. They are ordered per resource:
- - ![phb] spells:
-   - *Animal Shape*: you can't transmute into any flying beast.
-   - *Animate Objects*: the animated objects fly exactly 2 feet above the ground.
-   - *Beast Sense*: doesn't work on flying beasts.
-   - *Commune*
-   - *Conjure Celestial*
-   - *Conjure Fey*
-   - *Control Weather*
-   - *Dominate Beast*: doesn't work on flying beasts
-   - *Dominate Person*: if the target has a flying speed, you can't command them to change height.
-   - *Etherealness*
-   - *Find Familiar*: can't be a hawk or raven
-   - *Fly*
-   - *Gaseous Form*: the target can't use its speed to move up or down, and floats always 1 feet above the ground.
-   - *Levitate*
-   - *Move Earth*
-   - *Polymorph*: can't polymorph into a flying creature.
-   - *Reverse Gravity*
-   - *Shapechange*: can't be a flying creature.
-   - *Speak with Animals*: doesn't work on flying creatures.
-   - *Spider Climb*
-   - *True Polymorph*: can't polymorph into a flying creature.
-   - *Water Walk*
-   - *Wind Walk*
-
 ## Additional Backgrounds
 ![todo]
 
@@ -53,7 +25,6 @@ A quick checklist to make sure you're ready to go adventuring:
    - [ ] If applicable, choose a subrace
  - [ ] Choose a class
    - [ ] Level up to *level 5* (multiclassing if you want)
-   - [ ] If spellcasting: check if you don't have any Restricted Spells
  - [ ] Choose a background
  - [ ] Choose a religion
  - [ ] Choose defining traits: personality traits, ideals, bonds and flaws
