@@ -79,11 +79,11 @@ Your resilience manifests in a +1 boost to your Dexterity. However, most explore
  Non-combat | "Full" *Darkvision* during the day.
 
 ### Itanatan
-![itan] Itanatan is the armored god of honor and pride, but also of strength. Itanatan's followers tend to be strong, but a bit clumsy at times.
+![itan] Itanatan is the armored god of honor and pride, but also of strength. Itanatan's followers tend to be thorough, but a bit clumsy at times.
 
 Itanatan's altars resemble long, carefully decorated, stone desks. Papers are pile on top of them during the week, and on the eighth day of each week, they're burnt. This makes the words permanent, and Itanatan, who dwells in the Fort of Justice, will punish those who break agreements mercilessly.
 
-Due to the training of your ancestors, and your god's blessing, your Strength gets a +1 boost. However, your hereditary clumsiness decreases your Dexterity by 1. Additionally, you can always find another follower who'll gladly explain the local government and its rules.
+Due to the training of your ancestors, and your god's blessing, your Wisdom gets a +1 boost. However, your hereditary clumsiness decreases your Dexterity by 1. Additionally, you can always find another follower who'll gladly explain the local government and its rules.
 
  Summary | <i></i>
  --- | ---
@@ -119,25 +119,45 @@ Owing to your hereditary boons and curses, your Dexterity gets a +1 boost while 
  Non-combat | Talk to reptiles.
 
 ### Uyul
-![todo]
+![uyul] Uyul is the treefolk god of nature and mountains, but also of self-sufficiency. Uyul's followers are strong but stubborn.
+
+As the only god who wanders on Nexion, Uyul collects his own sacrifices. After his followers deliver the carefully prepared dishes to the beautifully carved wooden and ivory statues, Uyul himself comes to devour the meals. However, wandering Nexion implies that Uyul is permanently absent from his own home, The Cavernous Woods.
+
+Part of your self-sufficiency manifests in your +1 boost to Strength, and your stubbornness is obvious through the decrease of 1 in your Intelligence. Additionally, you're used to a rough lifestyle, allowing you to ignore one level of exhaustion at all times and allowing you to recover one level of exhaustion during a short rest (can be used once per long rest).
+
+ Summary | <i></i>
+ --- | ---
+ Boost | STR +1
+ Drop | CHA -1
+ Non-combat | Ignore exhaustion.
 
 ### Votthoboveigh
-![todo]
+![vot] Votthoboveigh is the diamond goddess of miners and artifice, but also of trade. Her followers are smart but a bit senseless.
+
+Each community of followers have their communal altar to the goddess. Altars are always shining with gems and precious metals, preferably imported. Sacrifices consist of crushed gemstones, powdered gold and broken tools. Those who enriched Votthoboveigh of them are allowed into the Golden Gardens after their demise.
+
+Your sharpness grants you a +1 boost to Intelligence, but your senselessness manifests in a decrease of Wisdom by 1. Additionally, you have a keen sense for haggling and you're usually able to get discounts from other followers and non-believers alike.
+
+ Summary | <i></i>
+ --- | ---
+ Boost | INT +1
+ Drop | WIS -1
+ Non-combat | Haggling.
 
 ### Overview Table
 
 
- Religion | Main Race(s) | God/Goddess of | Keywords | Clerical Domain
- --- |--- | --- | --- | ---
- Bara-Api | ![bugbear] <br /> ![goblin] | Fire | Fire, War, Bloodshed, Anger, Emotions | War, Light
- Degat | ![triton] | Water | Water, Rivers, Oceans, Seas, Lakes, Birth | Knowledge, Tempest
- Eluygh | ![tiefling] <br /> ![orc] <br /> ![half-orc] | Heaven | Heaven, Ice, Healing, Angels | Light, Life
- Ghry-An | ![kobold] <br /> ![dragonborn] <br /> ![tabaxi] | Sun | Sun, Warmth, Growth, Prosperity, Adventure | Life, Tempest
- Itanatan | ![hobgob] <br /> ![human] | Honor | Honor, Pride, Governments, Strength | War, Knowledge
- Khash | ![kenku] | Silence | Silence, Flight, Secrets, Stealth, Messengers | Trickery, Nature
- Lskr | ![lizard] <br /> ![yuan] | Snakes | Snakes, Reptiles, Sacrifice, Power, Preparation | Nature, Trickery
- Uyul | ![firbolg] <br /> ![goliath] | Mountains | Mountains, Forests, Nature, Competition, Self-sufficiency | Nature, Tempest
- Votthoboveigh | ![gnome] <br /> ![dwarf] <br /> ![halfling] | Artifice | Artifice, Craftsmanship, Quality, Trade, Miners, Gems | Knowledge, Trickery
+ Religion | Icon | Main Race(s) | God/Goddess of | Keywords | Clerical Domain
+ --- | --- | --- | --- | --- | ---
+ Bara-Api | ![bara] | ![bugbear] <br /> ![goblin] | Fire | Fire, War, Bloodshed, Anger, Emotions | War, Light
+ Degat | ![degat] | ![triton] | Water | Water, Rivers, Oceans, Seas, Lakes, Birth | Knowledge, Tempest
+ Eluygh | ![elu] | ![tiefling] <br /> ![orc] <br /> ![half-orc] | Heaven | Heaven, Ice, Healing, Angels | Light, Life
+ Ghry-An | ![ghry] | ![kobold] <br /> ![dragonborn] <br /> ![tabaxi] | Sun | Sun, Warmth, Growth, Prosperity, Adventure | Life, Tempest
+ Itanatan | ![itan] | ![hobgob] <br /> ![human] | Honor | Honor, Pride, Governments, Strength | War, Knowledge
+ Khash | ![khash] |  ![kenku] | Silence | Silence, Flight, Secrets, Stealth, Messengers | Trickery, Nature
+ Lskr | ![lskr] | ![lizard] <br /> ![yuan] | Snakes | Snakes, Reptiles, Sacrifice, Power, Preparation | Nature, Trickery
+ Uyul | ![uyul] | ![firbolg] <br /> ![goliath] | Mountains | Mountains, Forests, Nature, Competition, Self-sufficiency | Nature, Tempest
+ Votthoboveigh | ![vot] | ![gnome] <br /> ![dwarf] <br /> ![halfling] | Artifice | Artifice, Craftsmanship, Quality, Trade, Miners, Gems | Knowledge, Trickery
 
 ## Factions
 ### Pioneer's Delight
