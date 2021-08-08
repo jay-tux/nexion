@@ -42,12 +42,12 @@ The passion which burns in your veins can ignite others, granting you a +1 bonus
 
 Degat's shrines are usually built from shells and coral. Most are located in water or close to it. Offerings to Degat tend to be soluble or washable, such that there's always place for more offerings. For her followers, the Palace Deep Under is nirvana.
 
-The cool intelligence that comes with deciphering Degat's cryptic messages made you brighter than most, granting you a +1 boost to your Intelligence. However, it also left you a bit cold, decreasing your Charisma by 1. Additionally, you have access to the *Read the Streams* ability.
+The cool intelligence that comes with deciphering Degat's cryptic messages made you brighter than most, granting you a +1 boost to your Intelligence. However, it also left you a bit stiff, decreasing your Dexterity by 1. Additionally, you have access to the *Read the Streams* ability.
 
  Summary | <i></i>
  --- | ---
  Boost | INT +1
- Drop | CHA -1
+ Drop | DEX -1
  Non-combat | *Read the Streams*.
 
 ***Read the Streams:*** While traveling or when making a calculated choice, you can ask for Degat's guidance. This can only be done when you're near a large body of water (a large lake, the sea, ...) or body of running water (a small river, but not a small stream). To do so, make an Intelligence (INT) check and subtract the amount of times you've been granted guidance already during the last four days (INT - amount of successes). If you succeed, you will receive a cryptic hint as to which is (according to Degat) the right thing to do.
@@ -66,29 +66,29 @@ The insight granted by the long-living angels who sometimes visit mortals made y
  Non-combat | Not getting lost.
 
 ### Ghry-An
-![ghry] Ghry-An is the radiant god of the sun and prosperity, but also of adventure. Ghry-An's followers are usually swift and resilient, but they are usually a bit naive.
+![ghry] Ghry-An is the radiant god of the sun and prosperity, but also of adventure. Ghry-An's followers are usually strong and resilient, but they are usually a bit naive.
 
 Ghry-An doesn't require sacrifices. Anything that lives under his shine is protected and loved by him. However, those that turn to darkness and the night never climb the Soul-Rainbow to reach the Sun itself.
 
-Your resilience manifests in a +1 boost to your Dexterity. However, most explorers are short-lived, and such not much sageness is passed from generation to generation, decreasing your Wisdom by 1. During the day, you can see everything as if it were brightly lit. However, this doesn't disperse magical darkness.
-
- Summary | <i></i>
- --- | ---
- Boost | DEX +1
- Drop | WIS -1
- Non-combat | "Full" *Darkvision* during the day.
-
-### Itanatan
-![itan] Itanatan is the armored god of honor and pride, but also of strength. Itanatan's followers tend to be thorough, but a bit clumsy at times.
-
-Itanatan's altars resemble long, carefully decorated, stone desks. Papers are pile on top of them during the week, and on the eighth day of each week, they're burnt. This makes the words permanent, and Itanatan, who dwells in the Fort of Justice, will punish those who break agreements mercilessly.
-
-Due to the training of your ancestors, and your god's blessing, your Wisdom gets a +1 boost. However, your hereditary clumsiness decreases your Dexterity by 1. Additionally, you can always find another follower who'll gladly explain the local government and its rules.
+Your resilience manifests in a +1 boost to your Strength. However, most explorers are short-lived, and aren't quite quick-witted, decreasing your Intelligence by 1. During the day, you can see everything as if it were brightly lit. However, this doesn't disperse magical darkness.
 
  Summary | <i></i>
  --- | ---
  Boost | STR +1
- Drop | DEX -1
+ Drop | INT -1
+ Non-combat | "Full" *Darkvision* during the day.
+
+### Itanatan
+![itan] Itanatan is the armored god of honor and pride, but also of strength. Itanatan's followers tend to be thorough, but a bit blunt at times.
+
+Itanatan's altars resemble long, carefully decorated, stone desks. Papers are pile on top of them during the week, and on the eighth day of each week, they're burnt. This makes the words permanent, and Itanatan, who dwells in the Fort of Justice, will punish those who break agreements mercilessly.
+
+Due to the training of your ancestors, and your god's blessing, your Wisdom gets a +1 boost. However, your traditional bluntness decreases your Charisma by 1. Additionally, you can always find another follower who'll gladly explain the local government and its rules.
+
+ Summary | <i></i>
+ --- | ---
+ Boost | STR +1
+ Drop | CHA -1
  Non-combat | Legal help anywhere.
 
 ### Khash
@@ -106,28 +106,28 @@ Due to your attentiveness, you know much more than most, granting you a +1 boost
 
 
 ### Lskr
-![lskr] Lskr is the reptilian god of snakes and reptiles, but also of power. His followers are usually swift of body but slow of mind.
+![lskr] Lskr is the reptilian god of snakes and reptiles, but also of power. His followers tend to use their suppleness instead of brute force.
 
 His altars tend to be made of wood, with burn marks forming disturbing (to non-initiates) patterns. Sacrifices of any animals and plants are dissolved in acid and their spirits are sent to the Great Southern Dens.
 
-Owing to your hereditary boons and curses, your Dexterity gets a +1 boost while your Intelligence suffers a -1 decrease. Additionally, you're able to talk to reptiles and snakes.
+Owing to your hereditary boons and curses, your Dexterity gets a +1 boost while your Strength suffers a -1 decrease. Additionally, you're able to talk to reptiles and snakes.
 
  Summary | <i></i>
  --- | ---
  Boost | DEX +1
- Drop | INT -1
+ Drop | STR -1
  Non-combat | Talk to reptiles.
 
 ### Uyul
-![uyul] Uyul is the treefolk god of nature and mountains, but also of self-sufficiency. Uyul's followers are strong but stubborn.
+![uyul] Uyul is the treefolk god of nature and mountains, but also of self-sufficiency. Uyul's followers are resilient but stubborn.
 
 As the only god who wanders on Nexion, Uyul collects his own sacrifices. After his followers deliver the carefully prepared dishes to the beautifully carved wooden and ivory statues, Uyul himself comes to devour the meals. However, wandering Nexion implies that Uyul is permanently absent from his own home, The Cavernous Woods.
 
-Part of your self-sufficiency manifests in your +1 boost to Strength, and your stubbornness is obvious through the decrease of 1 in your Intelligence. Additionally, you're used to a rough lifestyle, allowing you to ignore one level of exhaustion at all times and allowing you to recover one level of exhaustion during a short rest (can be used once per long rest).
+Part of your self-sufficiency manifests in your +1 boost to Dexterity, and your stubbornness is obvious through the decrease of 1 in your Intelligence. Additionally, you're used to a rough lifestyle, allowing you to ignore one level of exhaustion at all times and allowing you to recover one level of exhaustion during a short rest (can be used once per long rest).
 
  Summary | <i></i>
  --- | ---
- Boost | STR +1
+ Boost | DEX +1
  Drop | CHA -1
  Non-combat | Ignore exhaustion.
 
