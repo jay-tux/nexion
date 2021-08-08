@@ -30,7 +30,6 @@ A quick checklist to make sure you're ready to go adventuring:
  - [ ] Choose defining traits: personality traits, ideals, bonds and flaws
  - [ ] Determine your stats and modifiers (STR, DEX, CON, INT, WIS, CHA; using standard-array or point buy)
    - [ ] Religious modifiers applied?
-   - [ ] Pioneer's Delight modifiers applied?
  - [ ] Determine your proficiencies (weapons, languages)
  - [ ] Add your equipment
    - [ ] Add your starting equipment
