@@ -25,7 +25,7 @@
 Each major religion on Nexion has its own aspects on an individual's life. Deceased followers of a religion face the afterlife granted by their deity (or oblivion, depending on their lifestyle).
 
 ### Bara-Api
-![bara] Bara-Api is the maned god of fire and unnecessary destruction, but also of emotions. Bara-Api's followers are fierce combatants, but they also appreciate passion in other aspects of their life.
+![bara] Bara-Api is the maned god of fire and war, but also of emotions. Bara-Api's followers are fierce combatants, but they also appreciate passion in other aspects of their life.
 
 Altars dedicated to Bara-Api are usually stone tablets (often round) with a hole for a campfire in the middle. Offerings are burnt, after which the spirit of the offering is said to pass on to the Great Bonfire hereafter.
 
