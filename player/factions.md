@@ -161,7 +161,13 @@ Your sharpness grants you a +1 boost to Intelligence, but your senselessness man
 
 ## Factions
 ### Pioneer's Delight
-![todo]
+The Pioneer's Delight, your second home, is an organization of pioneers, explorers and heroes. With offices and building in every city, markets and warehouses along rivers and mountain ranges alike, the organization is prepared for everyone. New members are recruited from the young, but older starters are welcome as well. Pioneer's Delight is *the* organization for those wanting to live an active, outdoorsy life.
+
+#### Structure
+The guild is governed by the Grandmaster. Only the highest ranking officials have ever met the Grandmaster. Rumors go that he's lived for over 900 years, and that he's even founded some of the cities of Nexion. It's said that he never sleeps, always reading the newest reports arriving in his office.  
+The Grandmaster is directly supported by his Planners, who are in charge of the daily governing of the guild. Additionally, the Grandmaster's direct orders are sent to the Branch Heads, each of which rules over one of the Pioneer's Delight's branches: one for almost every major area of Nexion, each in their "own" city (![h_ice] ([Arhusgh](./world_fow_cities.md#arhusgh)), ![v_heaven] ([Walchen](./world_fow_cities.md#walchen)), ![grandf] ([Navan](./world_fow_cities.md#navan)), ![des_ancients] ([Remicj](./world_fow_cities.md#remicj)), ![corn] ([Sanctuary](./world_fow_cities.md#sanctuary)), ![northern] ([Aurora](./world_fow_cities.md#aurora)), ![arrival] ([Liberty](./world_fow_cities.md#liberty)), ![frozen] ([Highcastle](./world_fow_cities.md#highcastle)), ![pine] ([Peinsheim](./world_fow_cities.md#peinsheim)), ![overgr] ([Xocali](./world_fow_cities.md#xocali)), ![lava] ([Obsidiana](./world_fow_cities.md#obsidiana)), ![storm_des] ([Ulthar](./world_fow_cities.md#ulthar)), ![anly] ([Castleport](./world_fow_cities.md#castleport)) and the Maritime Branch ([Libag](./world_fow_cities.md#seas-and-oceans))).  
+Each of the Branch Heads then commands their Branches (where the ![gold] are ruled from Walchen and the ![free_h] from Sanctuary). The local offices, in turn, are ruled by an Overseer.
+
 ### Northern Confederation
 ![todo]
 ### Confederacy of Religious Interests
@@ -219,3 +225,20 @@ Your sharpness grants you a +1 boost to Intelligence, but your senselessness man
 [lskr]: ../res/religious/lskr.png
 [uyul]: ../res/religious/uyul.png
 [vot]: ../res/religious/votthoboveigh.png
+
+[h_ice]: https://img.shields.io/badge/-Hills_of_Ice-brown
+[v_heaven]: https://img.shields.io/badge/-Veil_of_Heaven-lightgrey
+[grandf]: https://img.shields.io/badge/-Grandfather_Plains-green
+[gold]: https://img.shields.io/badge/-Gold_Shores-brown
+[des_ancients]: https://img.shields.io/badge/-Desert_of_the_Ancients-yellow
+[free_h]: https://img.shields.io/badge/-Freedom_Hills-brown
+[corn]: https://img.shields.io/badge/-The_Corn_Downs-green
+[northern]: https://img.shields.io/badge/-The_Northern_Hills-brown
+[arrival]: https://img.shields.io/badge/-Arrival_Plains-green
+[frozen]: https://img.shields.io/badge/-Frozen_Peaks-lightgrey
+[pine]: https://img.shields.io/badge/-Pine's_Range-darkgreen
+[overgr]: https://img.shields.io/badge/-Overgrowth-darkgreen
+[swamp]: https://img.shields.io/badge/-Infested_Swamp-pink
+[lava]: https://img.shields.io/badge/-Lava_Foothills-brown
+[storm_des]: https://img.shields.io/badge/-Storm_Desert-yellow
+[anly]: https://img.shields.io/badge/-Anly_Valley-green
