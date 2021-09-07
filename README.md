@@ -29,13 +29,13 @@ The future shines brightly, and it's your time to shine. So take up your pack an
  - Images
     - [World Map (with Fog of War)](./imgs/world_fow.png) ![done]
     - [World Map (with Fog of War and Big Cities)](./imgs/world_fow_cities.png) ![done]
-    - [Custom Character Sheets](./player/charsheets.md) ![todo]
-      - [PDF Version](./res/sheets.pdf) ![todo]
-      - [PNG Version](./res/sheets.png) ![todo]
+    - [Custom Character Sheets](./player/charsheets.md) ![todo] ![lowprio]
+      - [PDF Version](./res/sheets.pdf) ![todo] ![lowprio]
+      - [PNG Version](./res/sheets.png) ![todo] ![lowprio]
  - Textual Resources
     - [Player Base Data](./player/base.md) ![progress]
     - [World Map (with Fog of War and Notes)](./player/world_fow.md) ![done]
-    - [World Map (with Fog of War and Cities)](./player/world_fow_cities.md) ![progress]
+    - [World Map (with Fog of War and Cities)](./player/world_fow_cities.md) ![done]
     - [List of Playable Races](./player/races.md) ![done]
     - [List of Religions and Factions](./player/factions.md) ![progress]
     - [World History & Background Lore](./player/world-hist.md) ![progress]
@@ -80,5 +80,6 @@ The future shines brightly, and it's your time to shine. So take up your pack an
 [todo]: https://img.shields.io/badge/Status-To_Do-important
 [progress]: https://img.shields.io/badge/Status-In_Progress-informational
 [done]: https://img.shields.io/badge/status-Finished-success
+[lowprio]: https://img.shields.io/badge/-Low_Priority-lightgrey
 
 [arrival]: https://img.shields.io/badge/-Arrival_Plains-green
