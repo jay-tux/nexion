@@ -200,6 +200,24 @@ Additionally, there are some ranks which are given to members after performing c
  - **Instigator:** they have the brightest souls, capable of lighting others. Until now, no-one has ever been granted the Instigator title, so no-one really knows what it holds.
   - Unknown boons.
 
+#### Specializations
+*Specializations replace the standard D&D 5e backgrounds. Each one matches a ![PHb] background, except for the clothes: everyone starts in the simple Pioneer's Delight uniform.*  
+As few people are jacks of all trades, most trainees choose their specialization early on. Here are some of the most common ones:
+
+ ![PHb] background | Specialization
+ --- | ---
+ Acolyte | Disciple
+ Charlatan | Trickster
+ Entertainer | Gladiator
+ Criminal | Shadow-dweller
+ Folk Hero | Role Model
+ Guild Artisan | Master
+ Hermit | Lone Wolf
+ Outlander | Trapper
+ Sage | Savant
+ Soldier | Militia
+ Urchin | Lost One
+
 ### Northern Confederation
 ![todo]
 ### Confederacy of Religious Interests
@@ -274,3 +292,8 @@ Additionally, there are some ranks which are given to members after performing c
 [lava]: https://img.shields.io/badge/-Lava_Foothills-brown
 [storm_des]: https://img.shields.io/badge/-Storm_Desert-yellow
 [anly]: https://img.shields.io/badge/-Anly_Valley-green
+
+[phb]: https://img.shields.io/badge/resource-PHb-orange
+[mm]: https://img.shields.io/badge/resource-MM-blue
+[volo]: https://img.shields.io/badge/resource-Volo-lightgrey
+[dmg]: https://img.shields.io/badge/resource-DMG-purple

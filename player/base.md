@@ -7,12 +7,7 @@
  - [Player Checklist](./base.md#player-checklist)
 
 ## Starting Conditions
-As you've gotten a training and done some missions, you're quite versed in adventuring already. As such, you start your adventure as a *level 5* character, instead of *level 1* (see ![phb] for more details on levels). Before leaving for [Liberty](./world_fow_cities.md#liberty), your local [Overseer](./factions.md#pioneers-delight) gave you `300 + 1d8 x 10 gp`. You also got some equipment on you, namely your *starting equipment* and one other piece of equipment based on your specialization:
-
- Specialization | Item
- --- | ---
-
- ![todo] - specialization - item table
+As you've gotten a training and done some missions, you're quite versed in adventuring already. As such, you start your adventure as a *level 5* character, instead of *level 1* (see ![phb] for more details on levels). Before leaving for [Liberty](./world_fow_cities.md#liberty), your local [Overseer](./factions.md#pioneers-delight) gave you `300 + 1d8 x 10 gp`. You also got some equipment on you.
 
 ## Player Checklist
 A quick checklist to make sure you're ready to go adventuring:
