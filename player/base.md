@@ -4,7 +4,6 @@
 ## Table of Contents
  - [Table of Contents](./base.md#table-of-contents)
  - [Starting Conditions](./base.md#starting-conditions)
- - [Additional Backgrounds](./base.md#additional-background)
  - [Player Checklist](./base.md#player-checklist)
 
 ## Starting Conditions
@@ -15,9 +14,6 @@ As you've gotten a training and done some missions, you're quite versed in adven
 
  ![todo] - specialization - item table
 
-## Additional Backgrounds
-![todo]
-
 ## Player Checklist
 A quick checklist to make sure you're ready to go adventuring:
  - [ ] Choose a name and alignment
@@ -25,12 +21,12 @@ A quick checklist to make sure you're ready to go adventuring:
    - [ ] If applicable, choose a subrace
  - [ ] Choose a class
    - [ ] Level up to *level 5* (multiclassing if you want)
- - [ ] Choose a background
+ - [ ] Choose a background from among the specializations
  - [ ] Choose a [religion](./factions.md#religions)
  - [ ] Choose defining traits: personality traits, ideals, bonds and flaws
  - [ ] Determine your stats and modifiers (STR, DEX, CON, INT, WIS, CHA; using standard-array or point buy)
    - [ ] Religious modifiers applied?
- - [ ] Determine your proficiencies (weapons, languages)
+ - [ ] Determine your proficiencies (weapons, languages, ...)
  - [ ] Add your equipment
    - [ ] Add your starting equipment
    - [ ] Add your `300 + 1d8 x 10 gp`

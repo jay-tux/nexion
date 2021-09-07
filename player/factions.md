@@ -166,7 +166,39 @@ The Pioneer's Delight, your second home, is an organization of pioneers, explore
 #### Structure
 The guild is governed by the Grandmaster. Only the highest ranking officials have ever met the Grandmaster. Rumors go that he's lived for over 900 years, and that he's even founded some of the cities of Nexion. It's said that he never sleeps, always reading the newest reports arriving in his office.  
 The Grandmaster is directly supported by his Planners, who are in charge of the daily governing of the guild. Additionally, the Grandmaster's direct orders are sent to the Branch Heads, each of which rules over one of the Pioneer's Delight's branches: one for almost every major area of Nexion, each in their "own" city (![h_ice] ([Arhusgh](./world_fow_cities.md#arhusgh)), ![v_heaven] ([Walchen](./world_fow_cities.md#walchen)), ![grandf] ([Navan](./world_fow_cities.md#navan)), ![des_ancients] ([Remicj](./world_fow_cities.md#remicj)), ![corn] ([Sanctuary](./world_fow_cities.md#sanctuary)), ![northern] ([Aurora](./world_fow_cities.md#aurora)), ![arrival] ([Liberty](./world_fow_cities.md#liberty)), ![frozen] ([Highcastle](./world_fow_cities.md#highcastle)), ![pine] ([Peinsheim](./world_fow_cities.md#peinsheim)), ![overgr] ([Xocali](./world_fow_cities.md#xocali)), ![lava] ([Obsidiana](./world_fow_cities.md#obsidiana)), ![storm_des] ([Ulthar](./world_fow_cities.md#ulthar)), ![anly] ([Castleport](./world_fow_cities.md#castleport)) and the Maritime Branch ([Libag](./world_fow_cities.md#seas-and-oceans))).  
-Each of the Branch Heads then commands their Branches (where the ![gold] are ruled from Walchen and the ![free_h] from Sanctuary). The local offices, in turn, are ruled by an Overseer.
+Each of the Branch Heads then commands their Branches (where the ![gold] are ruled from Walchen and the ![free_h] from Sanctuary). The local offices, in turn, are ruled by an Overseer. Each of the local offices has some trainers, who help you get ready for the real world, some scouts and a few professional pioneers.
+
+#### The Members
+Each pioneer has trained for a long time, doing local, low-danger missions to become a professional pioneer. Those professionals are quickly recognized by their tattoo: the icon of the faction is tattooed onto both of their wrists. While they will usually aid each other, sometimes their ranks can cause friction: each pioneer of the same rank is an other's rival for promotion. Below are the ranks and their benefits (benefits are cumulative; each rank also has access to all benefits of a lower rank):
+ - **Pio:** freshly 'graduated' and ready to go exploring, the Pios are the lowest rank. They usually get the safest missions. However, they do not form the bulk of the Pioneer's Delight. Most Pios either promote quickly or don't survive.
+  - Can rely on Pioneer's Delight healers.
+ - **Pathfinder:** a Pio is often promoted to a Pathfinder after a few missions. They form the bulk of the organization's members.
+  - Can rely on Pioneer's Delight spy reports for information.
+  - Can request help of Pios through higher-ranking officials.
+ - **Trailblazer:** most Pathfinders get promoted after about 5 years of service. However, certain missions can help one rank up quicker. Exceptional deeds might cause a Branch Head to promote a Pathfinder immediately. Promotion to a Trailblazer always happens in a Branch Head's office.
+  - Can recruit and train new trainees (most recruiters and trainers are Trailblazers).
+  - Can enlist Pios for help.
+  - Can file mission proposals.
+  - Can request funding.
+  - Can rely on safe houses.
+ - **Wanderer:** every few years, a Trailblazer is promoted to be a Wanderer. For this huge honor, one must travel back to [Liberty](./world_fow_cities.md#liberty) for a ceremony. Very few Wanderers have been with the organization for less than 15 years. All Branch Heads are Wanderers or higher.
+  - Can enlist any lower rank for help.
+  - Can accept and deny mission proposals.
+  - Has access to top-secret information reports.
+  - Can grant funding.
+ - **Voyager:** the bee's knees, Voyagers are extremely rare and powerful, often doing missions with world-shaking consequences. Only a few Voyagers are known, and most of them are legends. The Grandmaster himself is the most notable example of a Voyager.
+  - Voyagers have almost unlimited power within the Pioneer's Delight.
+
+Additionally, there are some ranks which are given to members after performing certain great feats:
+ - **Explorer:** the first to explore and map an hitherto unknown area, Explorers were common in the early days.
+  - Has ownership of a manor in the explored area. The manor is designed and built by the organization.
+ - **Settler:** they've helped settle and protect the first cities in areas explored by the Explorers, Settlers are often founding fathers.
+  - Has ownership of a manor, with personnel, close to the city or township. The manor is designed and built by the organization. This often comes with quite a lot of servants and peasants.
+ - **Groundbreaker:** their inventions speak for themselves. Groundbreakers are geniuses beyond measure.
+  - Is entitled a share of the profits on the sale of their inventions.
+  - Is granted a laboratory for continued research.
+ - **Instigator:** they have the brightest souls, capable of lighting others. Until now, no-one has ever been granted the Instigator title, so no-one really knows what it holds.
+  - Unknown boons.
 
 ### Northern Confederation
 ![todo]
