@@ -1,4 +1,4 @@
-# Nexion
+# ![nexion logo](res/nexion.s.png) Nexion
 *The resources to a custom D&D 5e campaign*  
 *Requires 5e **Player's Handbook**, **Monster Manual**, **Volo's Guide to Monsters** and **Dungeon Master's Guide**. Whenever a resource is used from one of these books, it is indicated using a badge:*
 
