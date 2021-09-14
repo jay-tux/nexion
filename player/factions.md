@@ -219,13 +219,16 @@ As few people are jacks of all trades, most trainees choose their specialization
  Urchin | Lost One
 
 ### Northern Confederation
-![todo]
+The Northern Confederation is a political union. It consists of a large group of town controlled by the ![hill] in the ![h_ice]. Only dwarves are allowed to have a seat in their ranks. The northern tundra makes sure the Confederation depends on itself for survival. Members always wear a heavy necklace with their rank on it in public. They also protect the quality and price of any outbound goods.
+
 ### Confederacy of Religious Interests
-![todo]
+The Confederacy of Religious Interests (the *CRI*) used to be a strong and powerful union of cities and towns in the ![arrival], but it has fallen to ruin. Schisms and other fights caused splinter groups to tear from the *CRI*. The only place where they have any real power is in their seat: Prophethome.
+
 ### InterOperating Union
-![todo]
+Originally a trader's deal, the InterOperating Union (the *IOU*)has grown to be a very powerful influence on the ![lava], controlling its largest city: Obsidiana. Outside of the ![lava], they also control most of the towns leading to the north, to Tyanhuar in the ![overgr]. To get their voices heard, the *IOU* uses both a strong military force and embargoes.
+
 ### Negosy
-![todo]
+Where the InterOperating Union is trusted by its members, the Negosy are feared. The few, obscenely rich merchants control the ![anly] with iron fists and enormous armies. 
 
 [//]: # (links)
 [hill]: https://img.shields.io/badge/-Hill_Dwarf-lightgrey
