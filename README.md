@@ -38,7 +38,7 @@ The future shines brightly, and it's your time to shine. So take up your pack an
     - [World Map (with Fog of War and Cities)](./player/world_fow_cities.md) ![done]
     - [List of Playable Races](./player/races.md) ![done]
     - [List of Religions and Factions](./player/factions.md) ![done]
-    - [World History & Background Lore](./player/world-hist.md) ![progress]
+    - [World History & Background Lore](./player/world-hist.md) ![done]
 
 ## DM Resources
 *Note: as this is an ongoing campaign, these notes will only be available once the data inside them is known to my own playgroup.*
