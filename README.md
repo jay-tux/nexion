@@ -24,6 +24,7 @@ Chosen from among hundreds of children, you have been recruited by the [Pioneer'
 The future shines brightly, and it's your time to shine. So take up your pack and leave for Nexion's hidden secrets!
 
 ## Player Resources
+*This also contains base data for DMs.*  
 *For links to official WotC resources, see [Useful Links](./README.md#useful-links).*  
 *Note: even resources marked as ![done] can be updated if needed.*
  - Images
@@ -39,6 +40,7 @@ The future shines brightly, and it's your time to shine. So take up your pack an
     - [List of Playable Races](./player/races.md) ![done]
     - [List of Religions and Factions](./player/factions.md) ![done]
     - [World History & Background Lore](./player/world-hist.md) ![done]
+    - [Curses](./player/curses.md) ![progress]
 
 ## DM Resources
 *Note: as this is an ongoing campaign, these notes will only be available once the data inside them is known to my own playgroup.*
