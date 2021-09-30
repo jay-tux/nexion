@@ -31,7 +31,7 @@ At any level where you would gain one or more traits, you can instead choose to 
 **Example:** *as a level 3 Paladin (having just become level 3), I can choose to replace either* Divine Health *or* Sacred Oath *and become a Curser in its place.*
 
 ### Curse Slots
-While resting, you can choose to spend one hour preparing a curse. If you do, select one of your spell slots (of level 1 or greater). That spell slot can't be used but instead "holds" a prepared curse. Also select a curse for the spell slot to hold. This still counts as light activity.
+While resting, you can choose to spend one hour preparing a curse. If you do, select one of your spell slots (of level 1 or greater). That spell slot can't be used but instead "holds" a prepared curse. Also select a curse for the spell slot to hold. This still counts as light activity. This converts your spell slot into a curse slot (you can't regain the spell slot until the curse finishes).
 
 **Example:** *as a level 9 Paladin, I have access to 4 first level spell slots, 3 second level ones and 2 third level ones. This means that during a short rest, I can prepare* [Curse of Crawling](./curses.md#curse-of-crawling) *by "spending" a first, second or third level spell slot. Say I choose a second-level spell slot, then that means I still have 4 level one slots, 2 level two ones and 2 level three slots left to cast "normal" spells. After another hour, I can start preparing a second curse,* [Curse of Lithomancy](./curses.md#curse-of-lithomancy) *for example as a level 3 spell. Afterwards, I'll have the following spell slots left: 4x level 1, 2x level 2, 1x level 3.*
 
@@ -39,12 +39,12 @@ While resting, you can choose to spend one hour preparing a curse. If you do, se
 A Curse can be in any of the five following stages: prepared, cast, active, karma and finished.
 
 #### Prepared
-The curse has been slotted into a spell slot and has been prepared. When the curse is in this stage, it can be cast by using one action (this doesn't use a spell slot and keeps the "holding" slot "filled"). Casting requires a target.
+The curse has been slotted into a spell slot and has been prepared. When the curse is in this stage, it can be cast by using one action. Casting requires a target.
 
 **Example:** *(continuing on the previous example) with the* [Curse of Crawling](./curses.md#curse-of-crawling) *prepared, I can cast it on, say, an enemy Ogre. This takes one action and, supposing I haven't cast anything before, I have the* [Curse of Lithomancy](./curses.md#curse-of-lithomancy) *left prepared, as well as another 3 level 1 spell slots, 2 level 2 and 1 level 3 spell slot.*
 
 #### Cast
-When the curse is cast, it isn't yet in effect. At this stage, the target has to make a Spell Save. The Save DC is equal to `the curse's Base DC + your proficiency bonus + your spellcasting ability modifier`. If the target fails the save, it is afflicted by the curse, and the curse is active. The spell slot used to prepare the curse is still in use. 
+When the curse is cast, it isn't yet in effect. At this stage, the target has to make a Spell Save. The Save DC is equal to `the curse's Base DC + your proficiency bonus + your spellcasting ability modifier`. If the target fails the save, it is afflicted by the curse, and the curse is active.  
 However, if the target succeeds the save, the magic might be deflected onto someone else. Roll 1d20:  
 
  Result | Effect
