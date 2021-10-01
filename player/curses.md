@@ -15,6 +15,7 @@
      - [Active](./curses.md#active)
      - [Karma](./curses.md#karma)
      - [Finished](./curses.md#finished)
+   - [Dispelling Curses](./curses.md#dispelling-curses)
  - [Nexion Curses](./curses.md#nexion-curses)
    - [Curse of Crawling](./curses.md#curse-of-crawling)
    - [Curse of Lithomancy](./curses.md#curse-of-lithomancy)
@@ -39,7 +40,7 @@ While resting, you can choose to spend one hour preparing a curse. If you do, se
 A Curse can be in any of the five following stages: prepared, cast, active, karma and finished.
 
 #### Prepared
-The curse has been slotted into a spell slot and has been prepared. When the curse is in this stage, it can be cast by using one action. Casting requires a target.
+The curse has been slotted into a spell slot and has been prepared. When the curse is in this stage, it can be cast by using one action. Casting requires a target (which should be within 30 feet).
 
 **Example:** *(continuing on the previous example) with the* [Curse of Crawling](./curses.md#curse-of-crawling) *prepared, I can cast it on, say, an enemy Ogre. This takes one action and, supposing I haven't cast anything before, I have the* [Curse of Lithomancy](./curses.md#curse-of-lithomancy) *left prepared, as well as another 3 level 1 spell slots, 2 level 2 and 1 level 3 spell slot.*
 
@@ -56,13 +57,16 @@ However, if the target succeeds the save, the magic might be deflected onto some
 ##### Wild Ricochet
 When the magic ricochets away from the target, it triggers two effects:  
  1. At first, a random Wild Magic Surge (![phb]) happens at the target's location.  
- 1. Secondly, a random other creature is selected. The curse is "re-cast" targeting the other creature the next turn; it's still in the [cast](./curses.md#cast) stage.
+ 1. Secondly, a random other creature (120 feet) is selected. The curse is "re-cast" targeting the other creature the next turn; it's still in the [cast](./curses.md#cast) stage.
 
 #### Active
 During this stage, the curse is in effect. Whenever the trigger is satisfied, the curse's effect is applied. This last for either the duration (this can be indeterminate) or until the creature afflicted died. If the creature dies before the curse "expires", the curse moves on to the [karma](./curses.md#karma) stage. If the curse ends because of the duration, it moves on to the finished stage. Once the curse ends (either way), the caster finally can use the spell slot again (the spell slot can be used immediately after the curse ends).
 
 #### Karma
 Karmic justice is applied when the cursed creature dies while the curse is active. When this happens, the original caster has to make a Spell Save against the (possibly changed) DC. The DC is recalculated as `Base DC + current proficiency bonus + current ability modifier`. If the caster fails this Save, they are afflicted by the curse for the next 1d6 hours. Otherwise, the spell ends and goes into the finished stage.
+
+### Dispelling Curses
+***TODO***
 
 ## Nexion Curses
 Below are some curses you can use. Each curse can be prepared using a spell slot of level one or higher.
@@ -72,7 +76,7 @@ Below are some curses you can use. Each curse can be prepared using a spell slot
  Curse of Crawling | <i></i>
  --- | ---
  Base DC | 6
- Trigger | When the afflicted creature hits another creature with a melee attack.
+ Trigger | When the afflicted creature hits another non-Crawling Claw creature with a melee attack.
  Duration | 10 days.
  At higher levels | For each level beyond the first, the duration is extended by 1d4 days.
  Base Effect | 1d4 Crawling Claws (![mm]) are summoned as near as possible to the creature. They are hostile towards the afflicted creature.
@@ -83,7 +87,7 @@ Below are some curses you can use. Each curse can be prepared using a spell slot
  Curse of Lithomancy | <i></i>
  --- | ---
  Base DC | 8
- Trigger | When the afflicted creature touches an nonmagical object that's not made of stone.
+ Trigger | When the afflicted creature touches an nonmagical inanimate object that's not made of stone.
  Duration | 40 hours.
  At higher levels | For each level beyond the first, the duration is extended by 1d8 hours.
  Base Effect | There is a 20% chance that the object turns to stone. 
